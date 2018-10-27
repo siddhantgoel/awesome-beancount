@@ -57,6 +57,6 @@ A curated list of awesome Beancount resources.
 
 - Text Editors
     - [Emacs](https://bitbucket.org/blais/beancount/src/165d5d21e332dd6d2e4174b25d42bf092a507e6b/editors/emacs/beancount.el)
-    - [Vim](https://github.com/nathangrigg/vim-beancount)A
+    - [Vim](https://github.com/nathangrigg/vim-beancount)
     - [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
     - [Sublime Text](https://github.com/norseghost/sublime-beancount)
