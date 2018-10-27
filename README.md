@@ -38,6 +38,7 @@ A curated list of awesome Beancount resources.
     - <https://gist.github.com/travisdahlke/71152286b0a8826249fe>
     - <https://github.com/zacchiro/ledger2beancount>
     - <https://github.com/glasserc/ledger-to-beancount/>
+- [Beancount - Import and Sync](https://gitlab.com/alex_ford/beancount-ins)
 
 ## Blog Posts
 
