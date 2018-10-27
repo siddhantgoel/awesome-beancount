@@ -14,14 +14,17 @@ A curated list of awesome Beancount resources.
 
 ## Importers
 
-- [Amex (US)](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-amex-py)
-- [Chase (US)](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-chase-py)
-- [Citi (US)](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-citi-py)
-- [Schwab (US)](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-schwab-py)
-- [Deutsche Kredit Bank (Germany)](https://github.com/siddhantgoel/beancount-dkb)
-- [Commerzbank (Germany)](https://github.com/siddhantgoel/beancount-commerzbank)
-- [ING-DiBa (Germany)](https://github.com/siddhantgoel/beancount-ing-diba)
-- [Some Beancount importers](https://github.com/jamatute/beancount-importer)
+- US
+    - [Amex](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-amex-py)
+    - [Chase](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-chase-py)
+    - [Citi](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-citi-py)
+    - [Schwab](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-schwab-py)
+- Germany
+    - [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb)
+    - [Commerzbank](https://github.com/siddhantgoel/beancount-commerzbank)
+    - [ING-DiBa](https://github.com/siddhantgoel/beancount-ing-diba)
+- Misc
+    - [Some Beancount importers](https://github.com/jamatute/beancount-importer)
 
 ## Converters
 
