@@ -11,10 +11,8 @@ A curated list of awesome Beancount resources.
 - [Bitbucket](https://bitbucket.org/blais/beancount/)
 - [Mailing List](https://groups.google.com/forum/#!forum/beancount)
 
+## Importers
+
 ## Blog Posts
 
 ## Tutorials
-
-## Importers
-
-## Books
