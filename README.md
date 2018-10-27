@@ -49,3 +49,5 @@ A curated list of awesome Beancount resources.
 ## Tutorials
 
 ## Talks/Presentations
+
+- [Managing Personal Finances using Python - PyMunich October 2018](https://speakerdeck.com/siddhantgoel/managing-personal-finances-using-python)
