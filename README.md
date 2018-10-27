@@ -44,3 +44,5 @@ A curated list of awesome Beancount resources.
 - [Manage your personal finance with beancount](https://panavtec.me/manage-personal-finance-beancount)
 
 ## Tutorials
+
+## Talks/Presentations
