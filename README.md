@@ -60,3 +60,4 @@ A curated list of awesome Beancount resources.
     - [Vim](https://github.com/nathangrigg/vim-beancount)
     - [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
     - [Sublime Text](https://github.com/norseghost/sublime-beancount)
+- [Budgets using Fava](https://fava.pythonanywhere.com/example-beancount-file/help/budgets/)
