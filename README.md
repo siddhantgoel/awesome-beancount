@@ -37,4 +37,10 @@ A curated list of awesome Beancount resources.
 
 ## Blog Posts
 
+- [Moving on to Beancount](https://bloerg.net/2018/05/14/moving-on-to-beancount.html)
+- [Managing my personal finances with beancount](https://alexjj.com/blog/2016/2/managing-my-personal-finances-with-beancount/)
+- [Counting beans - and more - with Beancount](https://lwn.net/Articles/751874/)
+- [Managing Personal Finances using Python](https://sgoel.org/posts/managing-personal-finances-using-python/)
+- [Manage your personal finance with beancount](https://panavtec.me/manage-personal-finance-beancount)
+
 ## Tutorials
