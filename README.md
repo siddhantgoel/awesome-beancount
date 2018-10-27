@@ -47,6 +47,7 @@ A curated list of awesome Beancount resources.
 - [Counting beans - and more - with Beancount](https://lwn.net/Articles/751874/)
 - [Managing Personal Finances using Python](https://sgoel.org/posts/managing-personal-finances-using-python/)
 - [Manage your personal finance with beancount](https://panavtec.me/manage-personal-finance-beancount)
+- [Beancount ou la comptabilité pour les hackers [FR]](https://cyril.deguet.com/fr/2015/09/03/beancount-comptabilite-pour-hackers/)
 
 ## Talks/Presentations
 
