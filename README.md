@@ -11,7 +11,17 @@ A curated list of awesome Beancount resources.
 - [Bitbucket](https://bitbucket.org/blais/beancount/)
 - [Mailing List](https://groups.google.com/forum/#!forum/beancount)
 
-## Importers
+## Converters
+
+- [Web UI for semi-automatically importing external data into Beancount](https://github.com/jbms/beancount-import)
+- [Importer from YNAB to Beancount](https://github.com/hoostus/beancount-ynab)
+- [CSV to Beancount](https://github.com/PaNaVTEC/csv2beancount)
+- [GNUCash to Beancount](https://github.com/henriquebastos/gnucash-to-beancount/)
+- [Machine Learning augmented Beancount importers](https://github.com/beancount/smart_importer)
+- Ledger to Beancount
+    - <https://gist.github.com/travisdahlke/71152286b0a8826249fe>
+    - <https://github.com/zacchiro/ledger2beancount>
+    - <https://github.com/glasserc/ledger-to-beancount/>
 
 ## Blog Posts
 
