@@ -47,8 +47,6 @@ A curated list of awesome Beancount resources.
 - [Managing Personal Finances using Python](https://sgoel.org/posts/managing-personal-finances-using-python/)
 - [Manage your personal finance with beancount](https://panavtec.me/manage-personal-finance-beancount)
 
-## Tutorials
-
 ## Talks/Presentations
 
 - [Managing Personal Finances using Python - PyMunich October 2018](https://speakerdeck.com/siddhantgoel/managing-personal-finances-using-python)
