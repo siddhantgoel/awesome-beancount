@@ -39,6 +39,7 @@ A curated list of awesome Beancount resources.
     - <https://github.com/zacchiro/ledger2beancount>
     - <https://github.com/glasserc/ledger-to-beancount/>
 - [Beancount - Import and Sync](https://gitlab.com/alex_ford/beancount-ins)
+- [Moneywiz3 to Beancount](https://github.com/zhangzhishan/beancount_importer)
 
 ## Blog Posts
 
