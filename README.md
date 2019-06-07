@@ -27,6 +27,7 @@ A curated list of awesome Beancount resources.
 - Misc
     - [Some Beancount importers](https://github.com/jamatute/beancount-importer)
     - [Web UI for semi-automatically importing external data into beancount](https://github.com/jbms/beancount-import)
+    - [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer)
 
 ## Converters
 
