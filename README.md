@@ -26,6 +26,7 @@ A curated list of awesome Beancount resources.
     - [ING-DiBa](https://github.com/siddhantgoel/beancount-ing-diba)
 - Misc
     - [Some Beancount importers](https://github.com/jamatute/beancount-importer)
+    - [Web UI for semi-automatically importing external data into beancount](https://github.com/jbms/beancount-import)
 
 ## Converters
 
