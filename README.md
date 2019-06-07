@@ -4,6 +4,17 @@
 
 A curated list of awesome Beancount resources.
 
+## Contents
+
+- [Official Resources](#official-resources)
+- [Importers](#importers)
+- [Converters](#converters)
+- [Blog Posts](#blog-posts)
+- [Talks](#talks)
+- [Misc](#misc)
+
+---
+
 ## Official Resources
 
 - [Homepage](http://furius.ca/beancount)
@@ -52,7 +63,7 @@ A curated list of awesome Beancount resources.
 - [Manage your personal finance with beancount](https://panavtec.me/manage-personal-finance-beancount)
 - [Beancount ou la comptabilité pour les hackers [FR]](https://cyril.deguet.com/fr/2015/09/03/beancount-comptabilite-pour-hackers/)
 
-## Talks/Presentations
+## Talks
 
 - [Managing Personal Finances using Python - PyMunich October 2018](https://speakerdeck.com/siddhantgoel/managing-personal-finances-using-python)
 
