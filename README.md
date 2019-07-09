@@ -54,12 +54,21 @@ A curated list of awesome Beancount resources.
 
 ## Blog Posts
 
-- [Moving on to Beancount](https://bloerg.net/2018/05/14/moving-on-to-beancount.html)
-- [Managing my personal finances with beancount](https://alexjj.com/blog/2016/managing-my-personal-finances-with-beancount/)
-- [Counting beans - and more - with Beancount](https://lwn.net/Articles/751874/)
-- [Managing Personal Finances using Python](https://sgoel.org/posts/managing-personal-finances-using-python/)
-- [Manage your personal finance with beancount](https://panavtec.me/manage-personal-finance-beancount)
-- [Beancount ou la comptabilité pour les hackers [FR]](https://cyril.deguet.com/fr/2015/09/03/beancount-comptabilite-pour-hackers/)
+- English
+  - [Moving on to Beancount](https://bloerg.net/2018/05/14/moving-on-to-beancount.html)
+  - [Managing my personal finances with beancount](https://alexjj.com/blog/2016/managing-my-personal-finances-with-beancount/)
+  - [Counting beans - and more - with Beancount](https://lwn.net/Articles/751874/)
+  - [Managing Personal Finances using Python](https://sgoel.org/posts/managing-personal-finances-using-python/)
+  - [Manage your personal finance with beancount](https://panavtec.me/manage-personal-finance-beancount)
+- Franch
+  - [Beancount ou la comptabilité pour les hackers](https://cyril.deguet.com/fr/2015/09/03/beancount-comptabilite-pour-hackers/)
+- Chinese
+  - [Beancount —— 命令行复式簿记](https://wzyboy.im/post/1063.html)
+  - [使用 Beancount 记录证券投资](https://wzyboy.im/post/1317.html)
+  - [Beancount复式记账（一）：为什么](https://www.byvoid.com/zhs/blog/beancount-bookkeeping-1)
+  - [Beancount复式记账（二）：借贷记账法](https://www.byvoid.com/zhs/blog/beancount-bookkeeping-2)
+  - [Beancount复式记账（三）：结余与资产](https://www.byvoid.com/zhs/blog/beancount-bookkeeping-3)
+  - [Beancount複式記賬（四）：項目管理](https://www.byvoid.com/zht/blog/beancount-bookkeeping-4)
 
 ## Talks
 
@@ -74,3 +83,4 @@ A curated list of awesome Beancount resources.
     - [Sublime Text](https://github.com/norseghost/sublime-beancount)
 - [Budgets using Fava](https://fava.pythonanywhere.com/example-beancount-file/help/budgets/)
 - [Beancount Oneliner](https://pythonhosted.org/beancount-oneliner/)
+- [Chinese discussion group on telegram](https://t.me/beancount_zh)
