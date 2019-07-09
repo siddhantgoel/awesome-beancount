@@ -7,6 +7,8 @@ A curated list of awesome Beancount resources.
 ## Contents
 
 - [Official Resources](#official-resources)
+- [Community](#community)
+- [Editor Support](#editor-support)
 - [Importers](#importers)
 - [Converters](#converters)
 - [Blog Posts](#blog-posts)
