@@ -18,11 +18,15 @@ A curated list of awesome Beancount resources.
 ## Official Resources
 
 - [Homepage](http://furius.ca/beancount)
-- [Fava](https://beancount.github.io/fava/)
-- [Beancount Documentation Index](https://docs.google.com/document/d/1RaondTJCS_IUPBHFNdT8oqFKJjVJDsfsn6JEjBG04eA/edit)
 - [Bitbucket](https://bitbucket.org/blais/beancount/)
+- [Beancount Documentation Index](https://docs.google.com/document/d/1RaondTJCS_IUPBHFNdT8oqFKJjVJDsfsn6JEjBG04eA/edit)
+- [Fava](https://beancount.github.io/fava/)
+
+## Community
+
 - [Mailing List](https://groups.google.com/forum/#!forum/beancount)
 - [IRC](https://kiwiirc.com/nextclient/#ircs://irc.freenode.net/#beancount)
+- [Chinese discussion group on Telegram](https://t.me/beancount_zh)
 
 ## Importers
 
@@ -83,4 +87,3 @@ A curated list of awesome Beancount resources.
     - [Sublime Text](https://github.com/norseghost/sublime-beancount)
 - [Budgets using Fava](https://fava.pythonanywhere.com/example-beancount-file/help/budgets/)
 - [Beancount Oneliner](https://pythonhosted.org/beancount-oneliner/)
-- [Chinese discussion group on telegram](https://t.me/beancount_zh)
