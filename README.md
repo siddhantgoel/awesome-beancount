@@ -28,6 +28,13 @@ A curated list of awesome Beancount resources.
 - [IRC](https://kiwiirc.com/nextclient/#ircs://irc.freenode.net/#beancount)
 - [Chinese discussion group on Telegram](https://t.me/beancount_zh)
 
+## Editor Support
+
+- [Emacs](https://bitbucket.org/blais/beancount/src/default/editors/emacs/beancount.el)
+- [Vim](https://github.com/nathangrigg/vim-beancount)
+- [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
+- [Sublime Text](https://github.com/norseghost/sublime-beancount)
+
 ## Importers
 
 - US
@@ -80,10 +87,5 @@ A curated list of awesome Beancount resources.
 
 ## Misc
 
-- Text Editors
-    - [Emacs](https://bitbucket.org/blais/beancount/src/165d5d21e332dd6d2e4174b25d42bf092a507e6b/editors/emacs/beancount.el)
-    - [Vim](https://github.com/nathangrigg/vim-beancount)
-    - [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
-    - [Sublime Text](https://github.com/norseghost/sublime-beancount)
 - [Budgets using Fava](https://fava.pythonanywhere.com/example-beancount-file/help/budgets/)
 - [Beancount Oneliner](https://pythonhosted.org/beancount-oneliner/)
