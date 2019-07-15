@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Beancount resources.
+> Curated list of resources for the Beancount command-line accounting system
 
 ## Contents
 
