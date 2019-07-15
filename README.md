@@ -6,6 +6,7 @@ A curated list of awesome Beancount resources.
 
 ## Contents
 
+- [Plain Text Accounting](#plain-text-accounting)
 - [Official Resources](#official-resources)
 - [Community](#community)
 - [Editor Support](#editor-support)
@@ -16,6 +17,12 @@ A curated list of awesome Beancount resources.
 - [Misc](#misc)
 
 ---
+
+## Plain Text Accounting
+
+- [Plain Text Accounting](https://plaintextaccounting.org)
+- [Accounting for the simple minds with plain text accounting](https://dustri.org/b/accounting-for-the-simple-minds-with-plain-text-accounting.html)
+- [The surprising ease of plain text accounting](https://www.vincecima.com/2016/06/12/the-surprising-ease-of-plain-text-accounting.html)
 
 ## Official Resources
 
