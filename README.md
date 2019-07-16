@@ -16,8 +16,6 @@
 - [Talks](#talks)
 - [Misc](#misc)
 
----
-
 ## Plain Text Accounting
 
 - [Plain Text Accounting](https://plaintextaccounting.org)
