@@ -69,6 +69,7 @@
     - <https://github.com/glasserc/ledger-to-beancount/>
 - [Beancount - Import and Sync](https://gitlab.com/alex_ford/beancount-ins)
 - [Moneywiz3 to Beancount](https://github.com/zhangzhishan/beancount_importer)
+- [Costflow - Convert one line message to beancount/ledger format](https://docs.costflow.io)
 
 ## Blog Posts
 
