@@ -13,6 +13,7 @@
 - [Importers](#importers)
 - [Converters](#converters)
 - [Blog Posts](#blog-posts)
+- [Discussions](#discussions)
 - [Talks](#talks)
 - [Misc](#misc)
 
@@ -93,6 +94,10 @@
     - [Beancount复式记账（二）：借贷记账法](https://www.byvoid.com/zhs/blog/beancount-bookkeeping-2)
     - [Beancount复式记账（三）：结余与资产](https://www.byvoid.com/zhs/blog/beancount-bookkeeping-3)
     - [Beancount複式記賬（四）：項目管理](https://www.byvoid.com/zht/blog/beancount-bookkeeping-4)
+
+## Discussions
+
+- [Another Ledger user's perspective](https://groups.google.com/forum/#!msg/beancount/QV4qgpFbtJ8/9fSgMw-XGC8J)
 
 ## Talks
 
