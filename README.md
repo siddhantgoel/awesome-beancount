@@ -33,6 +33,7 @@
 
 - [Fava](https://beancount.github.io/fava/)
 - [Beancount Mobile](https://github.com/xuhcc/beancount-mobile)
+- [SQL queries for Beancount](http://aumayr.github.io/beancount-sql-queries/)
 
 ## Community
 
