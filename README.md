@@ -22,6 +22,7 @@
 - [Plain Text Accounting](https://plaintextaccounting.org)
 - [Accounting for the simple minds with plain text accounting](https://dustri.org/b/accounting-for-the-simple-minds-with-plain-text-accounting.html)
 - [The surprising ease of plain text accounting](https://www.vincecima.com/2016/06/12/the-surprising-ease-of-plain-text-accounting.html)
+- [Command line accounting: From mint.com to Ledger](https://muehe.org/posts/command-line-accounting/)
 
 ## Official Resources
 
