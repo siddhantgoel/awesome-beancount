@@ -78,6 +78,11 @@
 - [Moneywiz3 to Beancount](https://github.com/zhangzhishan/beancount_importer)
 - [Costflow - Convert one line message to beancount/ledger format](https://docs.costflow.io)
 
+## Price sources
+
+- [exchangeratesapi.io](https://github.com/xuhcc/beancount-exchangerates)
+- [Cryptoassets](https://github.com/xuhcc/beancount-cryptoassets)
+
 ## Blog Posts
 
 - English
