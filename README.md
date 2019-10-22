@@ -60,6 +60,7 @@
     - [Commerzbank](https://github.com/siddhantgoel/beancount-commerzbank)
     - [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb)
     - [ING-DiBa](https://github.com/siddhantgoel/beancount-ing-diba)
+    - [N26](https://github.com/siddhantgoel/beancount-n26)
 - Misc
     - [Some Beancount importers](https://github.com/jamatute/beancount-importer)
     - [Web UI for semi-automatically importing external data into beancount](https://github.com/jbms/beancount-import)
