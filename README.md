@@ -57,8 +57,8 @@
     - [Citi](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-citi-py)
     - [Schwab](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-schwab-py)
 - Germany
-    - [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb)
     - [Commerzbank](https://github.com/siddhantgoel/beancount-commerzbank)
+    - [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb)
     - [ING-DiBa](https://github.com/siddhantgoel/beancount-ing-diba)
 - Misc
     - [Some Beancount importers](https://github.com/jamatute/beancount-importer)
