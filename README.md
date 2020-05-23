@@ -27,8 +27,8 @@
 ## Official Resources
 
 - [Homepage](http://furius.ca/beancount)
-- [Source Code](https://bitbucket.org/blais/beancount/)
-- Beancount Documentation
+- [Source Code](https://github.com/beancount/beancount)
+- Documentation
     - [Google Docs](https://docs.google.com/document/d/1RaondTJCS_IUPBHFNdT8oqFKJjVJDsfsn6JEjBG04eA/edit)
     - [GitHub Pages](https://beancount.github.io/docs/)
 
