@@ -27,16 +27,16 @@
 ## Official Resources
 
 - [Homepage](http://furius.ca/beancount)
-- [Bitbucket](https://bitbucket.org/blais/beancount/)
+- [Source Code](https://bitbucket.org/blais/beancount/)
 - Beancount Documentation
     - [Google Docs](https://docs.google.com/document/d/1RaondTJCS_IUPBHFNdT8oqFKJjVJDsfsn6JEjBG04eA/edit)
     - [GitHub Pages](https://beancount.github.io/docs/)
 
 ## UI
 
-- [Fava](https://beancount.github.io/fava/)
-- [Beancount Mobile](https://github.com/xuhcc/beancount-mobile)
-- [SQL queries for Beancount](http://aumayr.github.io/beancount-sql-queries/)
+- [Fava](https://beancount.github.io/fava/) - Web interface for Beancount
+- [Beancount Mobile](https://github.com/xuhcc/beancount-mobile) - Data entry app for Beancount plain-text accounting system
+- [SQL queries for Beancount](http://aumayr.github.io/beancount-sql-queries/) - Example SQL queries for Beancount
 
 ## Community
 
@@ -79,7 +79,7 @@
     - <https://github.com/glasserc/ledger-to-beancount/>
 - [Beancount - Import and Sync](https://gitlab.com/alex_ford/beancount-ins)
 - [Moneywiz3 to Beancount](https://github.com/zhangzhishan/beancount_importer)
-- [Costflow - Convert one line message to beancount/ledger format](https://docs.costflow.io)
+- [Costflow](https://docs.costflow.io) - Convert one line message to beancount/ledger format
 
 ## Price sources
 
