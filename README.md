@@ -32,9 +32,9 @@
 
 ## UI
 
-- [Fava](https://beancount.github.io/fava/)
-- [Beancount Mobile](https://github.com/xuhcc/beancount-mobile)
-- [SQL queries for Beancount](http://aumayr.github.io/beancount-sql-queries/)
+- [Fava](https://beancount.github.io/fava/) - Web interface for Beancount
+- [Beancount Mobile](https://github.com/xuhcc/beancount-mobile) - Data entry app for Beancount plain-text accounting system
+- [SQL queries for Beancount](http://aumayr.github.io/beancount-sql-queries/) - Example SQL queries for Beancount
 
 ## Community
 
@@ -77,7 +77,7 @@
     - <https://github.com/glasserc/ledger-to-beancount/>
 - [Beancount - Import and Sync](https://gitlab.com/alex_ford/beancount-ins)
 - [Moneywiz3 to Beancount](https://github.com/zhangzhishan/beancount_importer)
-- [Costflow - Convert one line message to beancount/ledger format](https://docs.costflow.io)
+- [Costflow](https://docs.costflow.io) - Convert one line message to beancount/ledger format
 
 ## Price sources
 
