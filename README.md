@@ -28,7 +28,9 @@
 
 - [Homepage](http://furius.ca/beancount)
 - [Source Code](https://bitbucket.org/blais/beancount/)
-- [Beancount Documentation Index](https://docs.google.com/document/d/1RaondTJCS_IUPBHFNdT8oqFKJjVJDsfsn6JEjBG04eA/edit)
+- Beancount Documentation
+    - [Google Docs](https://docs.google.com/document/d/1RaondTJCS_IUPBHFNdT8oqFKJjVJDsfsn6JEjBG04eA/edit)
+    - [GitHub Pages](https://beancount.github.io/docs/)
 
 ## UI
 
@@ -116,4 +118,3 @@
 - [Budgets using Fava](https://fava.pythonanywhere.com/example-beancount-file/help/budgets/)
 - [Beancount Oneliner](https://pythonhosted.org/beancount-oneliner/)
 - [Reports on portfolio asset allocation in Beancount](https://github.com/ghislainbourgeois/beancount_portfolio_allocation/)
-- [Documentation in Markdown](https://github.com/xuhcc/beancount-docs)
