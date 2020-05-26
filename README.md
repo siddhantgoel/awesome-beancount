@@ -50,6 +50,7 @@
 - [Vim](https://github.com/nathangrigg/vim-beancount)
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
 - [Sublime Text](https://github.com/norseghost/sublime-beancount)
+- [Atom](https://atom.io/packages/beancount)
 
 ## Importers
 
