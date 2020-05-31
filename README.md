@@ -1,8 +1,6 @@
-# Awesome Beancount
+# Awesome Beancount [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> Curated list of resources for the Beancount command-line accounting system
+> A curated list of resources for the Beancount command-line accounting system
 
 ## Contents
 
@@ -119,3 +117,9 @@
 - [Budgets using Fava](https://fava.pythonanywhere.com/example-beancount-file/help/budgets/)
 - [Beancount Oneliner](https://pythonhosted.org/beancount-oneliner/)
 - [Reports on portfolio asset allocation in Beancount](https://github.com/ghislainbourgeois/beancount_portfolio_allocation/)
+
+---
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
