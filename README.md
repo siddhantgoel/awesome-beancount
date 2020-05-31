@@ -52,20 +52,25 @@
 
 ## Importers
 
-- US
-    - [Amex](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-amex-py)
-    - [Chase](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-chase-py)
-    - [Citi](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-citi-py)
-    - [Schwab](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-schwab-py)
-- Germany
-    - [Commerzbank](https://github.com/siddhantgoel/beancount-commerzbank)
-    - [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb)
-    - [ING-DiBa](https://github.com/siddhantgoel/beancount-ing-diba)
-    - [N26](https://github.com/siddhantgoel/beancount-n26)
-- Misc
-    - [Some Beancount importers](https://github.com/jamatute/beancount-importer)
-    - [Web UI for semi-automatically importing external data into beancount](https://github.com/jbms/beancount-import)
-    - [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer)
+### Germany
+
+- [Commerzbank](https://github.com/siddhantgoel/beancount-commerzbank)
+- [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb)
+- [ING-DiBa](https://github.com/siddhantgoel/beancount-ing-diba)
+- [N26](https://github.com/siddhantgoel/beancount-n26)
+
+### US
+
+- [Amex](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-amex-py)
+- [Chase](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-chase-py)
+- [Citi](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-citi-py)
+- [Schwab](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-schwab-py)
+
+### Misc
+
+- [Some Beancount importers](https://github.com/jamatute/beancount-importer)
+- [Web UI for semi-automatically importing external data into beancount](https://github.com/jbms/beancount-import)
+- [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer)
 
 ## Converters
 
