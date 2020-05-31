@@ -11,6 +11,7 @@
 - [Editor Support](#editor-support)
 - [Importers](#importers)
 - [Converters](#converters)
+- [Price Sources](#price-sources)
 - [Blog Posts](#blog-posts)
 - [Discussions](#discussions)
 - [Talks](#talks)
@@ -86,7 +87,7 @@
 - [Moneywiz3 to Beancount](https://github.com/zhangzhishan/beancount_importer)
 - [Costflow](https://docs.costflow.io) - Convert one line message to beancount/ledger format
 
-## Price sources
+## Price Sources
 
 - [exchangeratesapi.io](https://github.com/xuhcc/beancount-exchangerates)
 - [Cryptoassets](https://github.com/xuhcc/beancount-cryptoassets)
