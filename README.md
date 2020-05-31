@@ -6,6 +6,7 @@
 
 - [Plain Text Accounting](#plain-text-accounting)
 - [Official Resources](#official-resources)
+- [User Interfaces](#user-interfaces)
 - [Community](#community)
 - [Editor Support](#editor-support)
 - [Importers](#importers)
@@ -30,7 +31,7 @@
     - [Google Docs](https://docs.google.com/document/d/1RaondTJCS_IUPBHFNdT8oqFKJjVJDsfsn6JEjBG04eA/edit)
     - [GitHub Pages](https://beancount.github.io/docs/)
 
-## UI
+## User Interfaces
 
 - [Fava](https://beancount.github.io/fava/) - Web interface for Beancount
 - [Beancount Mobile](https://github.com/xuhcc/beancount-mobile) - Data entry app for Beancount plain-text accounting system
