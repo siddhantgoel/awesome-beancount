@@ -77,6 +77,10 @@
 - [Citi](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-citi-py)
 - [Schwab](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-schwab-py)
 
+### France
+
+- [Caisse d'Epargne](https://github.com/ArthurFDLR/beancount-ce)
+
 ### Misc
 
 - [Some Beancount importers](https://github.com/jamatute/beancount-importer)
