@@ -86,6 +86,7 @@
 - [Some Beancount importers](https://github.com/jamatute/beancount-importer)
 - [Web UI for semi-automatically importing external data into beancount](https://github.com/jbms/beancount-import)
 - [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer)
+- [Beancount Reds Ingestor](https://github.com/redstreet/beancount_reds_importers)
 
 ## Converters
 
