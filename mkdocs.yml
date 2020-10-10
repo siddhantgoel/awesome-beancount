@@ -9,4 +9,4 @@ theme:
         primary: indigo
     font: false
 nav:
-    - "Command-line Accounting using Python": README.md
+    - "Plain Text Accounting using Python": README.md
