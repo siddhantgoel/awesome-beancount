@@ -1,21 +1,8 @@
 # Awesome Beancount [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources for the Beancount command-line accounting system
+A curated list of resources for the Beancount command-line accounting system
 
-## Contents
-
-- [Plain Text Accounting](#plain-text-accounting)
-- [Official Resources](#official-resources)
-- [User Interfaces](#user-interfaces)
-- [Community](#community)
-- [Editor Support](#editor-support)
-- [Importers](#importers)
-- [Converters](#converters)
-- [Price Sources](#price-sources)
-- [Blog Posts](#blog-posts)
-- [Discussions](#discussions)
-- [Talks](#talks)
-- [Misc](#misc)
+---
 
 ## Plain Text Accounting
 
