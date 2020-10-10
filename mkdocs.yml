@@ -8,5 +8,6 @@ theme:
     palette:
         primary: indigo
     font: false
+    custom_dir: custom_theme
 nav:
     - "Plain Text Accounting using Python": README.md
