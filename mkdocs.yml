@@ -8,6 +8,12 @@ theme:
     palette:
         primary: indigo
     font: false
-    custom_dir: custom_theme
+    custom_dir: overrides
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/siddhantgoel/awesome-beancount
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/siddhantgoel
 nav:
     - "Plain Text Accounting using Python": README.md
