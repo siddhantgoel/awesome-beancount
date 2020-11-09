@@ -25,29 +25,6 @@ A curated list of resources for the Beancount command-line accounting system
 - [Beancount Mobile](https://github.com/xuhcc/beancount-mobile) - Data entry app for Beancount plain-text accounting system
 - [SQL queries for Beancount](http://aumayr.github.io/beancount-sql-queries/) - Example SQL queries for Beancount
 
-## Services
-
-- [Beancount.io](https://beancount.io/) - Out-of-box Beancount and Fava SaaS that you can use instantly
-
-## Commercial Apps
-
-- [Beancount.io iOS App](https://apps.apple.com/us/app/id1527950512) - Visualizes and connects to your Beancount.io ledger on iOS
-- [Beancount.io Android App](https://play.google.com/store/apps/details?id=io.beancount.android) - Visualizes and connects to your Beancount.io ledger on Android
-
-## Community
-
-- [Mailing List](https://groups.google.com/forum/#!forum/beancount)
-- [IRC](https://kiwiirc.com/nextclient/#ircs://irc.freenode.net/#beancount)
-- [Chinese discussion group on Telegram](https://t.me/beancount_zh)
-
-## Editor Support
-
-- [Emacs](https://bitbucket.org/blais/beancount/src/default/editors/emacs/beancount.el)
-- [Vim](https://github.com/nathangrigg/vim-beancount)
-- [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
-- [Sublime Text](https://github.com/norseghost/sublime-beancount)
-- [Atom](https://atom.io/packages/beancount)
-
 ## Importers
 
 ### Germany
@@ -75,6 +52,29 @@ A curated list of resources for the Beancount command-line accounting system
 - [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer)
 - [Beancount Reds Ingestor](https://github.com/redstreet/beancount_reds_importers)
 - [Importers, plugins and price-fetchers for Beancount](https://github.com/tarioch/beancounttools)
+
+## Services
+
+- [Beancount.io](https://beancount.io/) - Out-of-box Beancount and Fava SaaS that you can use instantly
+
+## Commercial Apps
+
+- [Beancount.io iOS App](https://apps.apple.com/us/app/id1527950512) - Visualizes and connects to your Beancount.io ledger on iOS
+- [Beancount.io Android App](https://play.google.com/store/apps/details?id=io.beancount.android) - Visualizes and connects to your Beancount.io ledger on Android
+
+## Community
+
+- [Mailing List](https://groups.google.com/forum/#!forum/beancount)
+- [IRC](https://kiwiirc.com/nextclient/#ircs://irc.freenode.net/#beancount)
+- [Chinese discussion group on Telegram](https://t.me/beancount_zh)
+
+## Editor Support
+
+- [Emacs](https://bitbucket.org/blais/beancount/src/default/editors/emacs/beancount.el)
+- [Vim](https://github.com/nathangrigg/vim-beancount)
+- [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
+- [Sublime Text](https://github.com/norseghost/sublime-beancount)
+- [Atom](https://atom.io/packages/beancount)
 
 ## Tools
 
