@@ -16,8 +16,8 @@ A curated list of resources for the Beancount command-line accounting system
 - [Homepage](http://furius.ca/beancount)
 - [Source Code](https://github.com/beancount/beancount)
 - Documentation
-    - [Google Docs](https://docs.google.com/document/d/1RaondTJCS_IUPBHFNdT8oqFKJjVJDsfsn6JEjBG04eA/edit)
     - [GitHub Pages](https://beancount.github.io/docs/)
+    - [Google Docs](https://docs.google.com/document/d/1RaondTJCS_IUPBHFNdT8oqFKJjVJDsfsn6JEjBG04eA/edit)
 
 ## User Interfaces
 
@@ -87,8 +87,8 @@ A curated list of resources for the Beancount command-line accounting system
     - <https://github.com/glasserc/ledger-to-beancount/>
 - [Beancount - Import and Sync](https://gitlab.com/alex_ford/beancount-ins)
 - [Moneywiz3 to Beancount](https://github.com/zhangzhishan/beancount_importer)
-- [Costflow](https://docs.costflow.io): Convert one line message to beancount/ledger format
-- [bean-add](https://simonvolpert.com/bean-add/): Easily add transactions to your Beancount journal
+- [Costflow](https://docs.costflow.io) - Convert one line message to beancount/ledger format
+- [bean-add](https://simonvolpert.com/bean-add/) - Easily add transactions to your Beancount journal
 
 ## Price Sources
 
