@@ -47,7 +47,7 @@ A curated list of resources for the Beancount command-line accounting system
 
 ### Misc
 
-- [Some Beancount importers](https://github.com/jamatute/beancount-importer)
+- [Beancount importers for the F-Droid Budget app and for a bank CSV](https://github.com/jamatute/beancount-importer)
 - [Web UI for semi-automatically importing external data into beancount](https://github.com/jbms/beancount-import)
 - [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer)
 - [Beancount Reds Ingestor](https://github.com/redstreet/beancount_reds_importers)
