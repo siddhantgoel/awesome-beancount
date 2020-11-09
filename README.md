@@ -76,7 +76,7 @@ A curated list of resources for the Beancount command-line accounting system
 - [Beancount Reds Ingestor](https://github.com/redstreet/beancount_reds_importers)
 - [Importers, plugins and price-fetchers for Beancount](https://github.com/tarioch/beancounttools)
 
-## Converters
+## Tools
 
 - [Importer from YNAB to Beancount](https://github.com/hoostus/beancount-ynab)
 - [CSV to Beancount](https://github.com/PaNaVTEC/csv2beancount)
@@ -87,7 +87,8 @@ A curated list of resources for the Beancount command-line accounting system
     - <https://github.com/glasserc/ledger-to-beancount/>
 - [Beancount - Import and Sync](https://gitlab.com/alex_ford/beancount-ins)
 - [Moneywiz3 to Beancount](https://github.com/zhangzhishan/beancount_importer)
-- [Costflow](https://docs.costflow.io) - Convert one line message to beancount/ledger format
+- [Costflow](https://docs.costflow.io): Convert one line message to beancount/ledger format
+- [bean-add](https://simonvolpert.com/bean-add/): Easily add transactions to your Beancount journal
 
 ## Price Sources
 
