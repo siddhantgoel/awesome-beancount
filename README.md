@@ -104,6 +104,7 @@ A curated list of resources for the Beancount command-line accounting system
     - [Managing Personal Finances using Python](https://sgoel.org/posts/managing-personal-finances-using-python/)
     - [Manage your personal finance with beancount](https://panavtec.me/manage-personal-finance-beancount)
     - [Plain text accounting with Beancount](https://www.jorgee.net/blog/2017-06-16/)
+    - [No-Bullshit Beancount Introduction](https://blog.leononame.dev/2019/08/beancount/)
 - French
     - [Beancount ou la comptabilité pour les hackers](https://cyril.deguet.com/fr/2015/09/03/beancount-comptabilite-pour-hackers/)
 - Chinese
