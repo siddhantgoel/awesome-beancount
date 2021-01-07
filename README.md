@@ -98,13 +98,13 @@ A curated list of resources for the Beancount command-line accounting system
 ## Blog Posts
 
 - English
-    - [Moving on to Beancount](https://bloerg.net/2018/05/14/moving-on-to-beancount.html)
-    - [Managing my personal finances with beancount](https://alexjj.com/blog/2016/managing-my-personal-finances-with-beancount/)
     - [Counting beans - and more - with Beancount](https://lwn.net/Articles/751874/)
-    - [Managing Personal Finances using Python](https://sgoel.org/posts/managing-personal-finances-using-python/)
     - [Manage your personal finance with beancount](https://panavtec.me/manage-personal-finance-beancount)
-    - [Plain text accounting with Beancount](https://www.jorgee.net/blog/2017-06-16/)
+    - [Managing my personal finances with beancount](https://alexjj.com/blog/2016/managing-my-personal-finances-with-beancount/)
+    - [Managing Personal Finances using Python](https://sgoel.dev/posts/managing-personal-finances-using-python/)
+    - [Moving on to Beancount](https://bloerg.net/2018/05/14/moving-on-to-beancount.html)
     - [No-Bullshit Beancount Introduction](https://blog.leononame.dev/2019/08/beancount/)
+    - [Plain text accounting with Beancount](https://www.jorgee.net/blog/2017-06-16/)
 - French
     - [Beancount ou la comptabilité pour les hackers](https://cyril.deguet.com/fr/2015/09/03/beancount-comptabilite-pour-hackers/)
 - Chinese
