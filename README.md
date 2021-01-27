@@ -98,6 +98,7 @@ A curated list of resources for the Beancount command-line accounting system
 ## Blog Posts
 
 - English
+    - [Accounting automation with Beancount](https://lyz-code.github.io/blue-book/accounting_automation/)
     - [Counting beans - and more - with Beancount](https://lwn.net/Articles/751874/)
     - [Manage your personal finance with beancount](https://panavtec.me/manage-personal-finance-beancount)
     - [Managing my personal finances with beancount](https://alexjj.com/blog/2016/managing-my-personal-finances-with-beancount/)
