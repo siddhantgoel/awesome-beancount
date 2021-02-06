@@ -33,6 +33,7 @@ A curated list of resources for the Beancount command-line accounting system
 - [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb)
 - [ING-DiBa](https://github.com/siddhantgoel/beancount-ing-diba)
 - [N26](https://github.com/siddhantgoel/beancount-n26)
+- [Volksbank & GLS-Bank](https://github.com/Fjanks/beancount-importer-volksbank)
 
 ### US
 
