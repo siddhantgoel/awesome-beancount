@@ -90,6 +90,7 @@ A curated list of resources for the Beancount command-line accounting system
 - [Moneywiz3 to Beancount](https://github.com/zhangzhishan/beancount_importer)
 - [Costflow](https://docs.costflow.io) - Convert one line message to beancount/ledger format
 - [bean-add](https://simonvolpert.com/bean-add/) - Easily add transactions to your Beancount journal
+- [beancount-balexpr](https://github.com/w1ndy/beancount_balexpr) - Check balances against simple expressions combining accounts in Beancount
 
 ## Price Sources
 
