@@ -91,6 +91,7 @@ A curated list of resources for the Beancount command-line accounting system
 - [Costflow](https://docs.costflow.io) - Convert one line message to beancount/ledger format
 - [bean-add](https://simonvolpert.com/bean-add/) - Easily add transactions to your Beancount journal
 - [beancount-balexpr](https://github.com/w1ndy/beancount_balexpr) - Check balances against simple expressions combining accounts in Beancount
+- [Beancount Categorizer](https://github.com/bratekarate/beancount-categorizer) - Automatically categorize your transactions using simple regex-based rules
 
 ## Price Sources
 
