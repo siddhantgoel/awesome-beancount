@@ -76,6 +76,8 @@ A curated list of resources for the Beancount command-line accounting system
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
 - [Sublime Text](https://github.com/norseghost/sublime-beancount)
 - [Atom](https://atom.io/packages/beancount)
+- [LSP](https://github.com/polarmutex/beancount-language-server)
+- [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount)
 
 ## Tools
 
