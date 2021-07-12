@@ -19,6 +19,10 @@ A curated list of resources for the Beancount command-line accounting system
     - [GitHub Pages](https://beancount.github.io/docs/)
     - [Google Docs](https://docs.google.com/document/d/1RaondTJCS_IUPBHFNdT8oqFKJjVJDsfsn6JEjBG04eA/edit)
 
+## Books
+
+- [Tracking Personal Finances using Python](https://personalfinancespython.com)
+
 ## User Interfaces
 
 - [Fava](https://beancount.github.io/fava/) - Web interface for Beancount
