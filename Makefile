@@ -4,4 +4,7 @@ pip-compile:
 pip-sync:
 	pip-compile requirements.txt
 
-.PHONY: pip-compile
+serve:
+	mkdocs serve
+
+.PHONY: pip-compile pip-sync serve
