@@ -1,6 +1,6 @@
 # Awesome Beancount [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of resources for the Beancount command-line accounting system
+A curated list of resources for Beancount, which is a command-line based double-entry bookkeeping system.
 
 ---
 
