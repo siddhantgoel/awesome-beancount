@@ -3,3 +3,16 @@
 {% block analytics %}
 <script async defer data-domain="awesome-beancount.com" src="https://plausible.io/js/plausible.js"></script>
 {% endblock %}
+
+{% block extrahead %}
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@siddhantgoel" />
+<meta name="twitter:creator" content="@siddhantgoel" />
+<meta name="twitter:title" content="{{ config.site_name }}" />
+<meta name="twitter:description" content="{{ config.site_description }}" />
+
+<meta property="og:title" content="{{ config.site_name }}"/>
+<meta property="og:description" content="{{ config.site_description }}"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="{{ page.canonical_url }}"/>
+{% endblock %}
