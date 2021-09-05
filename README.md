@@ -98,6 +98,7 @@ A curated list of resources for Beancount, which is a command-line based double-
 - [bean-add](https://simonvolpert.com/bean-add/) - Easily add transactions to your Beancount journal
 - [beancount-balexpr](https://github.com/w1ndy/beancount_balexpr) - Check balances against simple expressions combining accounts in Beancount
 - [Beancount Categorizer](https://github.com/bratekarate/beancount-categorizer) - Automatically categorize your transactions using simple regex-based rules
+- [ofxtools](https://github.com/csingley/ofxtools) - Python library for working with Open Financial Exchange (OFX) data
 
 ## Price Sources
 
