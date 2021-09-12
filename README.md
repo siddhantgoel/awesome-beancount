@@ -104,6 +104,7 @@ A curated list of resources for Beancount, which is a command-line based double-
 
 - [exchangeratesapi.io](https://github.com/xuhcc/beancount-exchangerates)
 - [Cryptoassets](https://github.com/xuhcc/beancount-cryptoassets)
+- [pricehist](https://gitlab.com/chrisberkhout/pricehist) - Multiple sources, for use via bean-price or independently
 
 ## Blog Posts
 
