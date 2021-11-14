@@ -13,7 +13,7 @@ A curated list of resources for Beancount, which is a command-line based double-
 
 ## Official Resources
 
-- [Homepage](http://furius.ca/beancount)
+- [Homepage](https://beancount.github.io/)
 - [Source Code](https://github.com/beancount/beancount)
 - Documentation
     - [GitHub Pages](https://beancount.github.io/docs/)
@@ -69,13 +69,13 @@ A curated list of resources for Beancount, which is a command-line based double-
 
 ## Community
 
-- [Mailing List](https://groups.google.com/forum/#!forum/beancount)
-- [IRC](https://kiwiirc.com/nextclient/#ircs://irc.freenode.net/#beancount)
+- [Mailing List](https://groups.google.com/g/beancount)
+- [IRC](https://web.libera.chat/gamja/?channels=%23beancount)
 - [Chinese discussion group on Telegram](https://t.me/beancount_zh)
 
 ## Editor Support
 
-- [Emacs](https://bitbucket.org/blais/beancount/src/default/editors/emacs/beancount.el)
+- [Emacs](https://github.com/beancount/beancount-mode)
 - [Vim](https://github.com/nathangrigg/vim-beancount)
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
 - [Sublime Text](https://github.com/norseghost/sublime-beancount)
@@ -94,7 +94,7 @@ A curated list of resources for Beancount, which is a command-line based double-
     - <https://github.com/glasserc/ledger-to-beancount/>
 - [Beancount - Import and Sync](https://gitlab.com/alex_ford/beancount-ins)
 - [Moneywiz3 to Beancount](https://github.com/zhangzhishan/beancount_importer)
-- [Costflow](https://docs.costflow.io) - Convert one line message to beancount/ledger format
+- [Costflow](https://www.costflow.io/docs/) - Convert one line message to beancount/ledger format
 - [bean-add](https://simonvolpert.com/bean-add/) - Easily add transactions to your Beancount journal
 - [beancount-balexpr](https://github.com/w1ndy/beancount_balexpr) - Check balances against simple expressions combining accounts in Beancount
 - [Beancount Categorizer](https://github.com/bratekarate/beancount-categorizer) - Automatically categorize your transactions using simple regex-based rules
@@ -109,12 +109,12 @@ A curated list of resources for Beancount, which is a command-line based double-
 ## Blog Posts
 
 - English
-    - [Accounting automation with Beancount](https://lyz-code.github.io/blue-book/accounting_automation/)
+    - [Accounting automation with Beancount](https://lyz-code.github.io/blue-book/beancount/)
     - [Counting beans - and more - with Beancount](https://lwn.net/Articles/751874/)
-    - [Manage your personal finance with beancount](https://panavtec.me/manage-personal-finance-beancount)
-    - [Managing my personal finances with beancount](https://alexjj.com/blog/2016/managing-my-personal-finances-with-beancount/)
+    - [Manage your personal finance with beancount](https://web.archive.org/web/20201020052006/https://panavtec.me/manage-personal-finance-beancount)
+    - [Managing my personal finances with beancount](https://web.archive.org/web/20201206125102/https://alexjj.com/blog/2016/managing-my-personal-finances-with-beancount/)
     - [Managing Personal Finances using Python](https://sgoel.dev/posts/managing-personal-finances-using-python/)
-    - [Moving on to Beancount](https://bloerg.net/2018/05/14/moving-on-to-beancount.html)
+    - [Moving on to Beancount](https://bloerg.net/posts/moving-on-to-beancount/)
     - [No-Bullshit Beancount Introduction](https://blog.leononame.dev/2019/08/beancount/)
     - [Plain text accounting with Beancount](https://www.jorgee.net/blog/2017-06-16/)
 - French
@@ -123,10 +123,10 @@ A curated list of resources for Beancount, which is a command-line based double-
     - [Beancount —— 命令行复式簿记](https://wzyboy.im/post/1063.html)
     - [使用 Beancount 记录证券投资](https://wzyboy.im/post/1317.html)
     - BYVoid
-        - [Beancount复式记账（一）：为什么](https://www.byvoid.com/zhs/blog/beancount-bookkeeping-1)
-        - [Beancount复式记账（二）：借贷记账法](https://www.byvoid.com/zhs/blog/beancount-bookkeeping-2)
-        - [Beancount复式记账（三）：结余与资产](https://www.byvoid.com/zhs/blog/beancount-bookkeeping-3)
-        - [Beancount複式記賬（四）：項目管理](https://www.byvoid.com/zht/blog/beancount-bookkeeping-4)
+        - [Beancount复式记账（一）：为什么](https://byvoid.com/zhs/blog/beancount-bookkeeping-1)
+        - [Beancount复式记账（二）：借贷记账法](https://byvoid.com/zhs/blog/beancount-bookkeeping-2)
+        - [Beancount复式记账（三）：结余与资产](https://byvoid.com/zhs/blog/beancount-bookkeeping-3)
+        - [Beancount複式記賬（四）：項目管理](https://byvoid.com/zht/blog/beancount-bookkeeping-4)
     - yishanhe
         - [复式借贷记账法 Beancount (0) - 先导](https://yishanhe.net/beancount-tutorial-0/)
         - [复式借贷记账法 Beancount (1) - 基础知识](https://yishanhe.net/beancount-tutorial-1/)
@@ -136,7 +136,7 @@ A curated list of resources for Beancount, which is a command-line based double-
 
 ## Discussions
 
-- [Another Ledger user's perspective](https://groups.google.com/forum/#!msg/beancount/QV4qgpFbtJ8/9fSgMw-XGC8J)
+- [Another Ledger user's perspective](https://groups.google.com/g/beancount/c/QV4qgpFbtJ8/m/9fSgMw-XGC8J)
 
 ## Talks
 
@@ -144,6 +144,6 @@ A curated list of resources for Beancount, which is a command-line based double-
 
 ## Misc
 
-- [Budgets using Fava](https://fava.pythonanywhere.com/example-beancount-file/help/budgets/)
+- [Budgets using Fava](https://fava.pythonanywhere.com/example-with-budgets/)
 - [Beancount Oneliner](https://pythonhosted.org/beancount-oneliner/)
 - [Reports on portfolio asset allocation in Beancount](https://github.com/ghislainbourgeois/beancount_portfolio_allocation/)
