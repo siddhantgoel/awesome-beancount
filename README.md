@@ -83,6 +83,10 @@ A curated list of resources for Beancount, which is a command-line based double-
 - [LSP](https://github.com/polarmutex/beancount-language-server)
 - [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount)
 
+## Plugins
+
+- [beancount-balexpr](https://github.com/w1ndy/beancount_balexpr) - Check balances against simple expressions combining accounts in Beancount
+
 ## Tools
 
 - [Importer from YNAB to Beancount](https://github.com/hoostus/beancount-ynab)
@@ -96,7 +100,6 @@ A curated list of resources for Beancount, which is a command-line based double-
 - [Moneywiz3 to Beancount](https://github.com/zhangzhishan/beancount_importer)
 - [Costflow](https://www.costflow.io/docs/) - Convert one line message to beancount/ledger format
 - [bean-add](https://simonvolpert.com/bean-add/) - Easily add transactions to your Beancount journal
-- [beancount-balexpr](https://github.com/w1ndy/beancount_balexpr) - Check balances against simple expressions combining accounts in Beancount
 - [Beancount Categorizer](https://github.com/bratekarate/beancount-categorizer) - Automatically categorize your transactions using simple regex-based rules
 - [ofxtools](https://github.com/csingley/ofxtools) - Python library for working with Open Financial Exchange (OFX) data
 
