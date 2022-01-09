@@ -86,6 +86,7 @@ A curated list of resources for Beancount, which is a command-line based double-
 ## Plugins
 
 - [beancount-balexpr](https://github.com/w1ndy/beancount_balexpr) - Check balances against simple expressions combining accounts in Beancount
+- [fava-envelope](https://github.com/polarmutex/fava-envelope) - Beancount Fava extension for envelope budgeting
 
 ## Tools
 
