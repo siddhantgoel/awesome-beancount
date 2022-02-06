@@ -44,6 +44,7 @@ A curated list of resources for Beancount, which is a command-line based double-
 - [Amex](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-amex-py)
 - [Chase](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-chase-py)
 - [Citi](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-citi-py)
+- [Mercury](https://github.com/mtlynch/beancount-mercury)
 - [Schwab](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-schwab-py)
 
 ### France
