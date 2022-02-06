@@ -31,6 +31,11 @@ A curated list of resources for Beancount, which is a command-line based double-
 
 ## Importers
 
+### China
+
+- [Alipay / 支付宝](https://github.com/deb-sig/double-entry-generator)
+- [WeChat Pay / 微信支付](https://github.com/deb-sig/double-entry-generator)
+
 ### Germany
 
 - [Commerzbank](https://github.com/siddhantgoel/beancount-commerzbank)
@@ -104,6 +109,9 @@ A curated list of resources for Beancount, which is a command-line based double-
 - [bean-add](https://simonvolpert.com/bean-add/) - Easily add transactions to your Beancount journal
 - [Beancount Categorizer](https://github.com/bratekarate/beancount-categorizer) - Automatically categorize your transactions using simple regex-based rules
 - [ofxtools](https://github.com/csingley/ofxtools) - Python library for working with Open Financial Exchange (OFX) data
+- [double-entry-generator](https://github.com/deb-sig/double-entry-generator) - Rule-based double-entry bookkeeping importer (from Alipay/WeChat/Huobi to Beancount).
+
+
 
 ## Price Sources
 
