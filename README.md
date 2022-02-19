@@ -96,6 +96,8 @@ A curated list of resources for Beancount, which is a command-line based double-
 
 - [beancount-balexpr](https://github.com/w1ndy/beancount_balexpr) - Check balances against simple expressions combining accounts in Beancount
 - [fava-envelope](https://github.com/polarmutex/fava-envelope) - Beancount Fava extension for envelope budgeting
+- [smart_importer](https://github.com/beancount/smart_importer) - Augment Beancount importers with machine learning functionality
+
 
 ## Tools
 
