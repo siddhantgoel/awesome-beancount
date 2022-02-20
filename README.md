@@ -26,6 +26,7 @@ A curated list of resources for Beancount, which is a command-line based double-
 ## User Interfaces
 
 - [Fava](https://beancount.github.io/fava/) - Web interface for Beancount
+- [Fava-GTK](https://github.com/johannesjh/fava-gtk) - GNOME Desktop app for Fava and Beancount
 - [Beancount Mobile](https://github.com/xuhcc/beancount-mobile) - Data entry app for Beancount plain-text accounting system
 - [SQL queries for Beancount](http://aumayr.github.io/beancount-sql-queries/) - Example SQL queries for Beancount
 
