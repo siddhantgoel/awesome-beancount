@@ -41,7 +41,7 @@ A curated list of resources for Beancount, which is a command-line based double-
 
 - [Commerzbank](https://github.com/siddhantgoel/beancount-commerzbank)
 - [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb)
-- [ING-DiBa](https://github.com/siddhantgoel/beancount-ing-diba)
+- [ING](https://github.com/siddhantgoel/beancount-ing)
 - [N26](https://github.com/siddhantgoel/beancount-n26)
 - [Volksbank & GLS-Bank](https://github.com/Fjanks/beancount-importer-volksbank)
 
