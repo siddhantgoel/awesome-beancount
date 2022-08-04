@@ -98,6 +98,8 @@ A curated list of resources for Beancount, which is a command-line based double-
 
 - [beancount-balexpr](https://github.com/w1ndy/beancount_balexpr) - Check balances against simple expressions combining accounts in Beancount
 - [fava-envelope](https://github.com/polarmutex/fava-envelope) - Beancount Fava extension for envelope budgeting
+- [beancount-balancechange](https://github.com/daniel-wells/beancount_balancechange) - Checks _change_ in balance between two dates
+- [beancount-checkclosed](https://github.com/daniel-wells/beancount_checkclosed) - Automatically insert a 0 balance check for closed balance sheet accounts
 
 ## Tools
 
