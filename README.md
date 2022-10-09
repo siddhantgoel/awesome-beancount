@@ -60,6 +60,9 @@ A curated list of resources for Beancount, which is a command-line based double-
 
 - [Caisse d'Epargne](https://github.com/ArthurFDLR/beancount-ce)
 
+### India
+- [SBI/BOI/PAYTM/HSBC/ICICI](https://github.com/dumbPy/beancount-importers-india)
+
 ### Misc
 
 - [Beancount importers for the F-Droid Budget app and for a bank CSV](https://github.com/jamatute/beancount-importer)
