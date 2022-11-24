@@ -122,7 +122,7 @@ A curated list of resources for Beancount, which is a command-line based double-
 - [double-entry-generator](https://github.com/deb-sig/double-entry-generator) - Rule-based double-entry bookkeeping importer (from Alipay/WeChat/Huobi to Beancount).
 - [beancount-parser](https://github.com/LaunchPlatform/beancount-parser) - Standalone Lark based Beancount syntax parser (not relying on Beancount library)
 - [beancount-black](https://github.com/LaunchPlatform/beancount-black) - Opinionated code formatter, just like Python's black code formatter but for Beancount
-
+- [beanahead](https://github.com/maread99/beanahead) - Administer future transactions for a beancount ledger
 
 ## Price Sources
 
