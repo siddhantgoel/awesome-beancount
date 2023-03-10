@@ -49,6 +49,7 @@ A curated list of resources for Beancount, which is a command-line based double-
 ### US
 
 - [Amex](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-amex-py)
+- [Capital One](https://github.com/mtlynch/beancount-capitalone) (Credit, pip-installable)
 - [Chase](https://github.com/mtlynch/beancount-chase-bank) (Checking, Credit, pip-installable)
 - [Chase](https://github.com/ArthurFDLR/beancount-chase) (Checking, pip-installable)
 - [Chase](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-chase-py) (Checking, Credit)
