@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "awesome-beancount"
+version = "1.0"
+description = "A curated list of resources for Beancount, which is a command-line based double-entry bookkeeping system."
+authors = ["Siddhant Goel <me@sgoel.dev>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mkdocs = "^1.5.2"
+mkdocs-material = "^9.1.21"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
