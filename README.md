@@ -124,8 +124,8 @@ A curated list of resources for Beancount, which is a command-line based double-
 - [beancount-parser](https://github.com/LaunchPlatform/beancount-parser) - Standalone Lark based Beancount syntax parser (not relying on Beancount library)
 - [beancount-black](https://github.com/LaunchPlatform/beancount-black) - Opinionated code formatter, just like Python's black code formatter but for Beancount
 - [beanhub-web-react](https://github.com/LaunchPlatform/beanhub-web-react) - React components for beancount entry input forms and [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms)
-- [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) - A library provides data types and processors of custom beancount forms for inputting repeating similar entries easily
-- [beanhub-cli](https://github.com/LaunchPlatform/beancount-cli) - Beancount command line tools come with features like formatter and a [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) web app
+- [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) - Data types and processors of custom beancount forms for inputting repeating similar entries easily
+- [beanhub-cli](https://github.com/LaunchPlatform/beancount-cli) - Beancount command line tools with features like formatter and a [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) web app
 - [beanahead](https://github.com/maread99/beanahead) - Administer future transactions for a beancount ledger
 
 ## Price Sources
