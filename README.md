@@ -101,7 +101,7 @@ A curated list of resources for Beancount, which is a command-line based double-
 
 ## Plugins
 
-- [autobean.share]([autobean/share](https://github.com/SEIAROTg/autobean/tree/master/autobean/share)): Expense split, joint bookkeeping, and debt management for personal use cases
+- [autobean.share](https://github.com/SEIAROTg/autobean/tree/master/autobean/share): Expense split, joint bookkeeping, and debt management for personal use cases
 - [autobean.xcheck](https://github.com/SEIAROTg/autobean/tree/master/autobean/xcheck): Cross-checks against external ledgers
 - [autobean.narration](https://github.com/SEIAROTg/autobean/tree/master/autobean/narration): Generates transaction narration from posting narration and posting narration from comments
 - [autobean.include](https://github.com/SEIAROTg/autobean/tree/master/autobean/include): Includes external beancount ledgers without disabling their plugins
