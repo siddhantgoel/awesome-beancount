@@ -101,6 +101,7 @@ A curated list of resources for Beancount, which is a command-line based double-
 - [Atom](https://atom.io/packages/beancount)
 - [LSP](https://github.com/polarmutex/beancount-language-server)
 - [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount)
+- [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags)
 
 ## Plugins
 
