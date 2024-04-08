@@ -153,7 +153,7 @@ A curated list of resources for Beancount, which is a command-line based double-
     - [Managing my personal finances with beancount](https://web.archive.org/web/20201206125102/https://alexjj.com/blog/2016/managing-my-personal-finances-with-beancount/)
     - [Managing Personal Finances using Python](https://sgoel.dev/posts/managing-personal-finances-using-python/)
     - [Moving on to Beancount](https://bloerg.net/posts/moving-on-to-beancount/)
-    - [No-Bullshit Beancount Introduction](https://blog.leononame.dev/2019/08/beancount/)
+    - [No-Bullshit Beancount Introduction](https://web.archive.org/web/20221119110728/https://blog.leononame.dev/2019/08/beancount/)
     - [Plain text accounting with Beancount](https://www.jorgee.net/blog/2017-06-16/)
 - French
     - [Beancount ou la comptabilité pour les hackers](https://cyril.deguet.com/fr/2015/09/03/beancount-comptabilite-pour-hackers/)
