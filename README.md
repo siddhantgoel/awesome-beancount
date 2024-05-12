@@ -135,7 +135,9 @@ A curated list of resources for Beancount, which is a command-line based double-
 - [beancount-black](https://github.com/LaunchPlatform/beancount-black) - Opinionated code formatter, just like Python's black code formatter but for Beancount
 - [beanhub-web-react](https://github.com/LaunchPlatform/beanhub-web-react) - React components for beancount entry input forms and [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms)
 - [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) - Data types and processors of custom beancount forms for inputting repeating similar entries easily
-- [beanhub-cli](https://github.com/LaunchPlatform/beancount-cli) - Beancount command line tools with features like formatter and a [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) web app
+- [beanhub-cli](https://github.com/LaunchPlatform/beancount-cli) - Beancount command line tools with features like formatter, [beanhub-import](https://github.com/LaunchPlatform/beancount-import) and a [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) web app
+- [beanhub-extract](https://github.com/LaunchPlatform/beancount-extract) - Simple Python library for extracting all kinds of bank export CSV files into standardized transaction data objects
+- [beanhub-import](https://github.com/LaunchPlatform/beancount-import) - Declarative idempotent rule-based beancount transaction import engine in Python consumes data extracted by [beanhub-extract](https://github.com/LaunchPlatform/beanhub-extract)
 - [beanahead](https://github.com/maread99/beanahead) - Administer future transactions for a beancount ledger
 
 ## Price Sources
