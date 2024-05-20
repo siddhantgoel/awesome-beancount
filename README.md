@@ -119,7 +119,9 @@ A curated list of resources for Beancount, which is a command-line based double-
 
 - [Importer from YNAB to Beancount](https://github.com/hoostus/beancount-ynab)
 - [CSV to Beancount](https://github.com/PaNaVTEC/csv2beancount)
-- [GNUCash to Beancount](https://github.com/henriquebastos/gnucash-to-beancount/)
+- GnuCash to Beancount
+  - <https://github.com/henriquebastos/gnucash-to-beancount/>
+  - <https://github.com/dtrai2/gnucash-to-beancount/>
 - Ledger to Beancount
     - <https://gist.github.com/travisdahlke/71152286b0a8826249fe>
     - <https://github.com/zacchiro/ledger2beancount>
