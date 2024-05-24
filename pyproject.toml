@@ -6,9 +6,9 @@ authors = ["Siddhant Goel <me@sgoel.dev>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
-mkdocs = "^1.5.2"
-mkdocs-material = "^9.1.21"
+python = "^3.12"
+mkdocs = "^1.6"
+mkdocs-material = "^9.5"
 
 [build-system]
 requires = ["poetry-core"]
