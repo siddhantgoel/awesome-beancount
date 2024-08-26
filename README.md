@@ -130,7 +130,7 @@ A curated list of resources for Beancount, which is a command-line based double-
 - [Moneywiz3 to Beancount](https://github.com/zhangzhishan/beancount_importer)
 - [Costflow](https://www.costflow.io/docs/) - Convert one line message to beancount/ledger format
 - [bean-add](https://simonvolpert.com/bean-add/) - Easily add transactions to your Beancount journal
-- [Beancount Bot](https://github.com/StdioA/) - Telegram / Mattermost bot to generate new transactions with few words
+- [Beancount Bot](https://github.com/StdioA/beancount-bot) - Telegram / Mattermost bot to generate new transactions with few words
 - [Beancount Categorizer](https://github.com/bratekarate/beancount-categorizer) - Automatically categorize your transactions using simple regex-based rules
 - [ofxtools](https://github.com/csingley/ofxtools) - Python library for working with Open Financial Exchange (OFX) data
 - [double-entry-generator](https://github.com/deb-sig/double-entry-generator) - Rule-based double-entry bookkeeping importer (from Alipay/WeChat/Huobi to Beancount).
