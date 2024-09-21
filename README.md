@@ -63,6 +63,7 @@ A curated list of resources for Beancount, which is a command-line based double-
 ### France
 
 - [Caisse d'Epargne](https://github.com/ArthurFDLR/beancount-ce)
+- [Boursorama, Amex, ... ](https://github.com/grostim/Beancount-myTools)
 
 ### India
 - [SBI/BOI/PAYTM/HSBC/ICICI](https://github.com/dumbPy/beancount-importers-india)
