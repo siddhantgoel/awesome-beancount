@@ -49,6 +49,11 @@ A curated list of resources for Beancount, which is a command-line based double-
 ### The Netherlands
 - [ABN AMRO Bank](https://github.com/deepakg/beancount-abnamro)
 
+### UK
+- [Monzo](https://github.com/Evernight/beancount-importers/)
+- [Revolut](https://github.com/Evernight/beancount-importers/)
+- [Wise](https://github.com/Evernight/beancount-importers/)
+
 ### US
 
 - [Amex](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-amex-py)
@@ -115,6 +120,8 @@ A curated list of resources for Beancount, which is a command-line based double-
 - [fava-envelope](https://github.com/polarmutex/fava-envelope) - Beancount Fava extension for envelope budgeting
 - [beancount-balancechange](https://github.com/daniel-wells/beancount_balancechange) - Checks _change_ in balance between two dates
 - [beancount-checkclosed](https://github.com/daniel-wells/beancount_checkclosed) - Automatically insert a 0 balance check for closed balance sheet accounts
+- [beancount-lazy-plugins.valuation](https://github.com/Evernight/beancount-lazy-plugins?tab=readme-ov-file#valuation) - track total value of the opaque fund over time
+- [beancount-lazy-plugins.filter_map](https://github.com/Evernight/beancount-lazy-plugins/tree/main?tab=readme-ov-file#filter_map) - apply operations to group of transactions selected by Fava filters
 
 ## Tools
 
@@ -191,3 +198,4 @@ A curated list of resources for Beancount, which is a command-line based double-
 - [Budgets using Fava](https://fava.pythonanywhere.com/example-with-budgets/)
 - [Beancount Oneliner](https://pythonhosted.org/beancount-oneliner/)
 - [Reports on portfolio asset allocation in Beancount](https://github.com/ghislainbourgeois/beancount_portfolio_allocation/)
+- [Lazy Beancount: Beancount and tools in Docker with opinionated use guide](https://github.com/Evernight/lazy-beancount)
