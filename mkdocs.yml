@@ -4,16 +4,20 @@ site_description: A curated list of resources for Beancount, which is a command-
 site_author: Siddhant Goel
 repo_url: https://github.com/siddhantgoel/awesome-beancount
 theme:
-    name: material
-    palette:
-        primary: indigo
-    font: false
-    custom_dir: overrides
+  name: material
+  language: en
+  palette:
+    primary: indigo
+  font:
+    text: Roboto
+  custom_dir: overrides
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/siddhantgoel/awesome-beancount
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/siddhantgoel
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@siddhantgoel
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/sgoel.dev
 nav:
     - "Plain Text Accounting using Python": README.md
