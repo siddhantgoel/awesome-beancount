@@ -1,6 +1,7 @@
 # Awesome Beancount [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of resources for Beancount, which is a command-line based double-entry bookkeeping system.
+A curated list of resources for Beancount, which is a command-line based double-entry
+bookkeeping system using plaintext files.
 
 ---
 
@@ -46,6 +47,14 @@ A curated list of resources for Beancount, which is a command-line based double-
 - [N26](https://github.com/siddhantgoel/beancount-n26)
 - [Volksbank & GLS-Bank](https://github.com/Fjanks/beancount-importer-volksbank)
 
+### France
+
+- [Caisse d'Epargne](https://github.com/ArthurFDLR/beancount-ce)
+- [Boursorama, Amex, ... ](https://github.com/grostim/Beancount-myTools)
+
+### India
+- [SBI/BOI/PAYTM/HSBC/ICICI](https://github.com/dumbPy/beancount-importers-india)
+
 ### The Netherlands
 - [ABN AMRO Bank](https://github.com/deepakg/beancount-abnamro)
 
@@ -65,14 +74,6 @@ A curated list of resources for Beancount, which is a command-line based double-
 - [Mercury](https://github.com/mtlynch/beancount-mercury)
 - [Schwab](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-schwab-py)
 
-### France
-
-- [Caisse d'Epargne](https://github.com/ArthurFDLR/beancount-ce)
-- [Boursorama, Amex, ... ](https://github.com/grostim/Beancount-myTools)
-
-### India
-- [SBI/BOI/PAYTM/HSBC/ICICI](https://github.com/dumbPy/beancount-importers-india)
-
 ### Misc
 
 - [Beancount importers for the F-Droid Budget app and for a bank CSV](https://github.com/jamatute/beancount-importer)
@@ -84,13 +85,13 @@ A curated list of resources for Beancount, which is a command-line based double-
 
 ## Services
 
-- [Beancount.io](https://beancount.io/) - Out-of-box Beancount and Fava SaaS that you can use instantly
-- [BeanHub](https://beanhub.io/) - A modern accounting service based on Git and Beancount
+- [Beancount.io](https://beancount.io/): Out-of-box Beancount and Fava SaaS that you can use instantly
+- [BeanHub](https://beanhub.io/): A modern accounting service based on Git and Beancount
 
 ## Commercial Apps
 
-- [Beancount.io iOS App](https://apps.apple.com/us/app/id1527950512) - Visualizes and connects to your Beancount.io ledger on iOS
-- [Beancount.io Android App](https://play.google.com/store/apps/details?id=io.beancount.android) - Visualizes and connects to your Beancount.io ledger on Android
+- [Beancount.io iOS App](https://apps.apple.com/us/app/id1527950512): Visualizes and connects to your Beancount.io ledger on iOS
+- [Beancount.io Android App](https://play.google.com/store/apps/details?id=io.beancount.android): Visualizes and connects to your Beancount.io ledger on Android
 
 ## Community
 
@@ -100,13 +101,13 @@ A curated list of resources for Beancount, which is a command-line based double-
 
 ## Editor Support
 
-- [Emacs](https://github.com/beancount/beancount-mode)
-- [Vim](https://github.com/nathangrigg/vim-beancount)
-- [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
-- [Sublime Text](https://github.com/norseghost/sublime-beancount)
 - [Atom](https://atom.io/packages/beancount)
+- [Emacs](https://github.com/beancount/beancount-mode)
 - [LSP](https://github.com/polarmutex/beancount-language-server)
+- [Sublime Text](https://github.com/norseghost/sublime-beancount)
 - [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount)
+- [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
+- [Vim](https://github.com/nathangrigg/vim-beancount)
 - [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags)
 
 ## Plugins
