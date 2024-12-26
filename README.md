@@ -154,7 +154,7 @@ bookkeeping system using plaintext files.
 
 ## Price Sources
 
-- [exchangeratesapi.io](https://github.com/xuhcc/beancount-exchangerates)
+- [xuhcc/beancount-exchangerates](https://github.com/xuhcc/beancount-exchangerates) for [exchangerate.host](https://exchangerate.host/) or [frankfurter.dev](https://frankfurter.dev/) or [exchangeratesapi.io](https://exchangeratesapi.io/) or other [fixer.io](https://fixer.io/)-like 💱 APIs
 - [Cryptoassets](https://github.com/xuhcc/beancount-cryptoassets)
 - [pricehist](https://gitlab.com/chrisberkhout/pricehist) - Multiple sources, for use via bean-price or independently
 
