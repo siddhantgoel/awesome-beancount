@@ -59,10 +59,18 @@ bookkeeping system using plaintext files.
 ### The Netherlands
 - [ABN AMRO Bank](https://github.com/deepakg/beancount-abnamro)
 
+### Switzerland
+- [BCGE](https://tariochbctools.readthedocs.io/)
+- [Finpension](https://github.com/Dr-Nuke/drnuke-bean?tab=readme-ov-file#finpension-importer)
+- [Neon](https://tariochbctools.readthedocs.io/)
+- PostFinance: [tariochbctools](https://github.com/tarioch/beancounttools/blob/master/src/tariochbctools/importers/postfinance/importer.py) or [Dr-Nuke](https://github.com/Dr-Nuke/drnuke-bean?tab=readme-ov-file#postfinance-importer-swiss)
+- [Raiffeisen](https://tariochbctools.readthedocs.io/)
+- [ZKB](https://tariochbctools.readthedocs.io/)
+
 ### UK
 - [Monzo](https://github.com/Evernight/beancount-importers/)
-- [Revolut](https://github.com/Evernight/beancount-importers/)
-- [Wise](https://github.com/Evernight/beancount-importers/)
+- Revolut: [Evernight](https://github.com/Evernight/beancount-importers/) or [tariochbctools](https://tariochbctools.readthedocs.io/)
+- Wise: [Evernight](https://github.com/Evernight/beancount-importers/) or [tariochbctools](https://tariochbctools.readthedocs.io/)
 
 ### US
 
@@ -72,8 +80,13 @@ bookkeeping system using plaintext files.
 - [Chase](https://github.com/ArthurFDLR/beancount-chase) (Checking, pip-installable)
 - [Chase](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-chase-py) (Checking, Credit)
 - [Citi](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-citi-py)
+- [Fidelity](https://tariochbctools.readthedocs.io/)
 - [Mercury](https://github.com/mtlynch/beancount-mercury)
 - [Schwab](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-schwab-py)
+
+### Blockchain Transactions
+
+- [tariochbctools](https://tariochbctools.readthedocs.io/)
 
 ### Misc
 
@@ -155,9 +168,10 @@ bookkeeping system using plaintext files.
 
 ## Price Sources
 
-- [xuhcc/beancount-exchangerates](https://github.com/xuhcc/beancount-exchangerates) for [exchangerate.host](https://exchangerate.host/) or [frankfurter.dev](https://frankfurter.dev/) or [exchangeratesapi.io](https://exchangeratesapi.io/) or other [fixer.io](https://fixer.io/)-like 💱 APIs
+- [xuhcc/beancount-exchangerates](https://github.com/xuhcc/beancount-exchangerates) for [frankfurter.dev](https://frankfurter.dev/) or [exchangeratesapi.io](https://exchangeratesapi.io/) or other [fixer.io](https://fixer.io/)-like 💱 APIs
 - [Cryptoassets](https://github.com/xuhcc/beancount-cryptoassets)
 - [pricehist](https://gitlab.com/chrisberkhout/pricehist) - Multiple sources, for use via bean-price or independently
+- [Interactive Brokers](https://tariochbctools.readthedocs.io/)
 
 ## Blog Posts
 
