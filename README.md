@@ -36,7 +36,8 @@ bookkeeping system using plaintext files.
 
 ### China
 
-- [Alipay / 支付宝](https://github.com/deb-sig/double-entry-generator)
+- Alipay / 支付宝: [deb-sig](https://github.com/deb-sig/double-entry-generator) or [wzyboy](https://github.com/wzyboy/awesome-beancount/tree/master/importers)
+- [China Merchants Bank (CMB)](https://github.com/wzyboy/awesome-beancount)
 - [WeChat Pay / 微信支付](https://github.com/deb-sig/double-entry-generator)
 
 ### Germany
