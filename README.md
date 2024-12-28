@@ -3,6 +3,8 @@
 A curated list of resources for Beancount, which is a command-line based double-entry
 bookkeeping system using plaintext files.
 
+Complements [Beancount's own External Contributions](https://beancount.github.io/docs/external_contributions.html) index.
+
 ---
 
 ## Plain Text Accounting
