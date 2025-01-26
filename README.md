@@ -126,8 +126,8 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 ## Editor Support
 
 - [Atom](https://atom.io/packages/beancount)
+- [Beancount Language Server](https://github.com/polarmutex/beancount-language-server)
 - [Emacs](https://github.com/beancount/beancount-mode)
-- [LSP](https://github.com/polarmutex/beancount-language-server)
 - [Sublime Text](https://github.com/norseghost/sublime-beancount)
 - [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount)
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
