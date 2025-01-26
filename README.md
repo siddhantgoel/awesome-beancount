@@ -132,6 +132,7 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 - [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount)
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
 - [Vim](https://github.com/nathangrigg/vim-beancount)
+- [Zed](https://github.com/zed-extensions/beancount)
 - [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags)
 
 ## Plugins
