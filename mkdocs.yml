@@ -1,6 +1,6 @@
 site_name: Awesome Beancount
 site_url: https://awesome-beancount.com
-site_description: A curated list of resources for Beancount, which is a command-line based double-entry bookkeeping system using plaintext files.
+site_description: A curated list of resources for Beancount, an open-source double entry bookkeeping system — ideal for plain text accounting users and Python software developers.
 site_author: Siddhant Goel
 repo_url: https://github.com/siddhantgoel/awesome-beancount
 theme:
@@ -20,4 +20,4 @@ extra:
     - icon: fontawesome/brands/bluesky
       link: https://bsky.app/profile/sgoel.dev
 nav:
-    - "Plain Text Accounting using Python": README.md
+  - "Plain Text Accounting using Python": README.md
