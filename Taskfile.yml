@@ -1,0 +1,6 @@
+version: 3
+
+tasks:
+  mkdocs:
+    cmd: uv run mkdocs serve --dev-addr 0.0.0.0:9000
+    desc: Run mkdocs
