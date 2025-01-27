@@ -102,13 +102,13 @@ system — ideal for plain text accounting users and Python software developers.
 
 How to export (the "inferred" _extended form_ of) `*.beancount` to other formats:
 
-* JSON
-  * https://gist.github.com/xiaoruoruo/3fdf8d0f92b3fd85f259b35f888e4257
-  * https://github.com/LaunchPlatform/beancount-exporter
-* RDBMS
-  * [Postgres](https://github.com/gerdemb/beanpost)
+- JSON
+  - https://gist.github.com/xiaoruoruo/3fdf8d0f92b3fd85f259b35f888e4257
+  - https://github.com/LaunchPlatform/beancount-exporter
+- RDBMS
+  - [Postgres](https://github.com/gerdemb/beanpost)
 
-## Services
+## Commercial Services
 
 - [Beancount.io](https://beancount.io/): Out-of-box Beancount and Fava SaaS that you can use instantly
 - [BeanHub](https://beanhub.io/): A modern accounting service based on Git and Beancount
