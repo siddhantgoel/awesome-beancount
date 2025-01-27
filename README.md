@@ -1,9 +1,11 @@
 # Awesome Beancount [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of resources for Beancount, which is a command-line based double-entry
-bookkeeping system using plaintext files.
+bookkeeping system using plaintext files. This list complements [Beancount's own
+External Contributions](https://beancount.github.io/docs/external_contributions.html)
+index.
 
-Complements [Beancount's own External Contributions](https://beancount.github.io/docs/external_contributions.html) index.
+![](images/banner.png)
 
 ---
 
