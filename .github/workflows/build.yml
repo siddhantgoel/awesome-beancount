@@ -2,29 +2,29 @@ name: awesome-beancount
 
 on:
   push:
-    branches:
-      main
+    branches: main
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-      - name: Install Poetry
-        uses: snok/install-poetry@v1
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
 
       - name: Install dependencies
-        run: poetry install --no-interaction --no-root
+        run: uv sync
 
       - name: Build site
-        run: poetry run mkdocs build
+        run: uv run mkdocs build
 
       - name: Deploy site
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
