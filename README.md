@@ -103,10 +103,10 @@ system — ideal for plain text accounting users and Python software developers.
 How to export (the "inferred" _extended form_ of) `*.beancount` to other formats:
 
 - JSON
-  - https://gist.github.com/xiaoruoruo/3fdf8d0f92b3fd85f259b35f888e4257
-  - https://github.com/LaunchPlatform/beancount-exporter
+    - <https://gist.github.com/xiaoruoruo/3fdf8d0f92b3fd85f259b35f888e4257>
+    - <https://github.com/LaunchPlatform/beancount-exporter>
 - RDBMS
-  - [Postgres](https://github.com/gerdemb/beanpost)
+    - [Postgres](https://github.com/gerdemb/beanpost)
 
 ## Commercial Services
 
@@ -156,8 +156,8 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 - [Importer from YNAB to Beancount](https://github.com/hoostus/beancount-ynab)
 - [CSV to Beancount](https://github.com/PaNaVTEC/csv2beancount)
 - GnuCash to Beancount
-  - <https://github.com/henriquebastos/gnucash-to-beancount/>
-  - <https://github.com/dtrai2/gnucash-to-beancount/>
+    - <https://github.com/henriquebastos/gnucash-to-beancount/>
+    - <https://github.com/dtrai2/gnucash-to-beancount/>
 - Ledger to Beancount
     - <https://gist.github.com/travisdahlke/71152286b0a8826249fe>
     - <https://github.com/zacchiro/ledger2beancount>
