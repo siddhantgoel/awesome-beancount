@@ -864,8 +864,16 @@ system — ideal for plain text accounting users and Python software developers.
 <h2 id="importers">Importers</h2>
 <h3 id="china">China</h3>
 <ul>
-<li>Alipay / 支付宝: <a href="https://github.com/deb-sig/double-entry-generator">deb-sig</a> or <a href="https://github.com/wzyboy/awesome-beancount/tree/master/importers">wzyboy</a></li>
-<li><a href="https://github.com/wzyboy/awesome-beancount">China Merchants Bank (CMB)</a></li>
+<li>Alipay / 支付宝<ul>
+<li><a href="https://github.com/deb-sig/double-entry-generator">deb-sig/double-entry-generator</a></li>
+<li><a href="https://github.com/wzyboy/awesome-beancount/blob/master/importers/alipay_acclog.py">wzyboy/awesome-beancount</a></li>
+</ul>
+</li>
+<li>China Merchants Bank (CMB)<ul>
+<li><a href="https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_debit_cards.py">Debit</a></li>
+<li><a href="https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_credit_cards.py">Credit</a></li>
+</ul>
+</li>
 <li><a href="https://github.com/deb-sig/double-entry-generator">WeChat Pay / 微信支付</a></li>
 </ul>
 <h3 id="germany">Germany</h3>
@@ -894,15 +902,27 @@ system — ideal for plain text accounting users and Python software developers.
 <li><a href="https://tariochbctools.readthedocs.io/">BCGE</a></li>
 <li><a href="https://github.com/Dr-Nuke/drnuke-bean?tab=readme-ov-file#finpension-importer">Finpension</a></li>
 <li><a href="https://tariochbctools.readthedocs.io/">Neon</a></li>
-<li>PostFinance: <a href="https://github.com/tarioch/beancounttools/blob/master/src/tariochbctools/importers/postfinance/importer.py">tariochbctools</a> or <a href="https://github.com/Dr-Nuke/drnuke-bean?tab=readme-ov-file#postfinance-importer-swiss">Dr-Nuke</a></li>
+<li>PostFinance<ul>
+<li><a href="https://github.com/tarioch/beancounttools/blob/master/src/tariochbctools/importers/postfinance/importer.py">tariochbc/beancounttools</a></li>
+<li><a href="https://github.com/Dr-Nuke/drnuke-bean?tab=readme-ov-file#postfinance-importer-swiss">Dr-Nuke/drnunke-bean</a></li>
+</ul>
+</li>
 <li><a href="https://tariochbctools.readthedocs.io/">Raiffeisen</a></li>
 <li><a href="https://tariochbctools.readthedocs.io/">ZKB</a></li>
 </ul>
 <h3 id="uk">UK</h3>
 <ul>
 <li><a href="https://github.com/Evernight/beancount-importers/">Monzo</a></li>
-<li>Revolut: <a href="https://github.com/Evernight/beancount-importers/">Evernight</a> or <a href="https://tariochbctools.readthedocs.io/">tariochbctools</a></li>
-<li>Wise: <a href="https://github.com/Evernight/beancount-importers/">Evernight</a> or <a href="https://tariochbctools.readthedocs.io/">tariochbctools</a></li>
+<li>Revolut<ul>
+<li><a href="https://github.com/Evernight/beancount-importers/blob/main/src/beancount_importers/import_revolut.py">Evernight/beancount-importers</a></li>
+<li><a href="https://tariochbctools.readthedocs.io/en/latest/importers.html#revolut">tariochbctools</a></li>
+</ul>
+</li>
+<li>Wise:<ul>
+<li><a href="https://github.com/Evernight/beancount-importers/blob/main/src/beancount_importers/import_wise.py">Evernight/beancount-importers</a></li>
+<li><a href="https://tariochbctools.readthedocs.io/en/latest/importers.html#wise-formerly-transferwise">tariochbctools</a></li>
+</ul>
+</li>
 </ul>
 <h3 id="us">US</h3>
 <ul>
@@ -912,13 +932,14 @@ system — ideal for plain text accounting users and Python software developers.
 <li><a href="https://github.com/ArthurFDLR/beancount-chase">Chase</a> (Checking, pip-installable)</li>
 <li><a href="https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-chase-py">Chase</a> (Checking, Credit)</li>
 <li><a href="https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-citi-py">Citi</a></li>
+<li><a href="https://git.sr.ht/~goorzhel/beancount-clipper">Clipper</a></li>
 <li><a href="https://tariochbctools.readthedocs.io/">Fidelity</a></li>
 <li><a href="https://github.com/mtlynch/beancount-mercury">Mercury</a></li>
 <li><a href="https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-schwab-py">Schwab</a></li>
 </ul>
 <h3 id="blockchain-transactions">Blockchain Transactions</h3>
 <ul>
-<li><a href="https://tariochbctools.readthedocs.io/">tariochbctools</a></li>
+<li><a href="https://tariochbctools.readthedocs.io/en/latest/importers.html#blockchain">tariochbctools</a></li>
 </ul>
 <h3 id="misc">Misc</h3>
 <ul>
