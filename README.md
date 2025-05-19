@@ -38,8 +38,12 @@ system — ideal for plain text accounting users and Python software developers.
 
 ### China
 
-- Alipay / 支付宝: [deb-sig](https://github.com/deb-sig/double-entry-generator) or [wzyboy](https://github.com/wzyboy/awesome-beancount/tree/master/importers)
-- [China Merchants Bank (CMB)](https://github.com/wzyboy/awesome-beancount)
+- Alipay / 支付宝
+    - [deb-sig/double-entry-generator](https://github.com/deb-sig/double-entry-generator)
+    - [wzyboy/awesome-beancount](https://github.com/wzyboy/awesome-beancount/blob/master/importers/alipay_acclog.py)
+- China Merchants Bank (CMB)
+    - [Debit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_debit_cards.py)
+    - [Credit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_credit_cards.py)
 - [WeChat Pay / 微信支付](https://github.com/deb-sig/double-entry-generator)
 
 ### Germany
@@ -65,14 +69,20 @@ system — ideal for plain text accounting users and Python software developers.
 - [BCGE](https://tariochbctools.readthedocs.io/)
 - [Finpension](https://github.com/Dr-Nuke/drnuke-bean?tab=readme-ov-file#finpension-importer)
 - [Neon](https://tariochbctools.readthedocs.io/)
-- PostFinance: [tariochbctools](https://github.com/tarioch/beancounttools/blob/master/src/tariochbctools/importers/postfinance/importer.py) or [Dr-Nuke](https://github.com/Dr-Nuke/drnuke-bean?tab=readme-ov-file#postfinance-importer-swiss)
+- PostFinance
+    - [tariochbc/beancounttools](https://github.com/tarioch/beancounttools/blob/master/src/tariochbctools/importers/postfinance/importer.py)
+    - [Dr-Nuke/drnunke-bean](https://github.com/Dr-Nuke/drnuke-bean?tab=readme-ov-file#postfinance-importer-swiss)
 - [Raiffeisen](https://tariochbctools.readthedocs.io/)
 - [ZKB](https://tariochbctools.readthedocs.io/)
 
 ### UK
 - [Monzo](https://github.com/Evernight/beancount-importers/)
-- Revolut: [Evernight](https://github.com/Evernight/beancount-importers/) or [tariochbctools](https://tariochbctools.readthedocs.io/)
-- Wise: [Evernight](https://github.com/Evernight/beancount-importers/) or [tariochbctools](https://tariochbctools.readthedocs.io/)
+- Revolut
+    - [Evernight/beancount-importers](https://github.com/Evernight/beancount-importers/blob/main/src/beancount_importers/import_revolut.py)
+    - [tariochbctools](https://tariochbctools.readthedocs.io/en/latest/importers.html#revolut)
+- Wise:
+    - [Evernight/beancount-importers](https://github.com/Evernight/beancount-importers/blob/main/src/beancount_importers/import_wise.py)
+    - [tariochbctools](https://tariochbctools.readthedocs.io/en/latest/importers.html#wise-formerly-transferwise)
 
 ### US
 
@@ -82,13 +92,14 @@ system — ideal for plain text accounting users and Python software developers.
 - [Chase](https://github.com/ArthurFDLR/beancount-chase) (Checking, pip-installable)
 - [Chase](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-chase-py) (Checking, Credit)
 - [Citi](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-citi-py)
+- [Clipper](https://git.sr.ht/~goorzhel/beancount-clipper)
 - [Fidelity](https://tariochbctools.readthedocs.io/)
 - [Mercury](https://github.com/mtlynch/beancount-mercury)
 - [Schwab](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-schwab-py)
 
 ### Blockchain Transactions
 
-- [tariochbctools](https://tariochbctools.readthedocs.io/)
+- [tariochbctools](https://tariochbctools.readthedocs.io/en/latest/importers.html#blockchain)
 
 ### Misc
 
