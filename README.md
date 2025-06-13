@@ -108,6 +108,7 @@ system — ideal for plain text accounting users and Python software developers.
 - [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer)
 - [Beancount Reds Ingestor](https://github.com/redstreet/beancount_reds_importers)
 - [Importers, plugins and price-fetchers for Beancount](https://github.com/tarioch/beancounttools)
+- [yabci - yet another beancount importer](https://codeberg.org/privatize-koala/yabci)
 
 ## Exports
 
