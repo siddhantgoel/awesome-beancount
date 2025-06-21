@@ -1,0 +1,28 @@
+# Tools
+
+- [Importer from YNAB to Beancount](https://github.com/hoostus/beancount-ynab)
+- [CSV to Beancount](https://github.com/PaNaVTEC/csv2beancount)
+- GnuCash to Beancount
+    - <https://github.com/henriquebastos/gnucash-to-beancount/>
+    - <https://github.com/dtrai2/gnucash-to-beancount/>
+- Ledger to Beancount
+    - <https://gist.github.com/travisdahlke/71152286b0a8826249fe>
+    - <https://github.com/zacchiro/ledger2beancount>
+    - <https://github.com/glasserc/ledger-to-beancount/>
+- [Beancount - Import and Sync](https://gitlab.com/alex_ford/beancount-ins)
+- [Moneywiz3 to Beancount](https://github.com/zhangzhishan/beancount_importer)
+- [Costflow](https://www.costflow.io/docs/) - Convert one line message to beancount/ledger format
+- [bean-add](https://simonvolpert.com/bean-add/) - Easily add transactions to your Beancount journal
+- [Beancount Bot](https://github.com/StdioA/beancount-bot) - Telegram / Mattermost bot to generate new transactions with few words
+- [Beancount Categorizer](https://github.com/bratekarate/beancount-categorizer) - Automatically categorize your transactions using simple regex-based rules
+- [ofxtools](https://github.com/csingley/ofxtools) - Python library for working with Open Financial Exchange (OFX) data
+- [double-entry-generator](https://github.com/deb-sig/double-entry-generator) - Rule-based double-entry bookkeeping importer (from Alipay/WeChat/Huobi to Beancount).
+- [beancount-parser](https://github.com/LaunchPlatform/beancount-parser) - Standalone Lark based Beancount syntax parser (not relying on Beancount library)
+- [beancount-black](https://github.com/LaunchPlatform/beancount-black) - Opinionated code formatter, just like Python's black code formatter but for Beancount
+- [beanhub-web-react](https://github.com/LaunchPlatform/beanhub-web-react) - React components for beancount entry input forms and [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms)
+- [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) - Data types and processors of custom beancount forms for inputting repeating similar entries easily
+- [beanhub-cli](https://github.com/LaunchPlatform/beancount-cli) - Beancount command line tools with features like formatter, [beanhub-import](https://github.com/LaunchPlatform/beancount-import) and a [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) web app
+- [beanhub-extract](https://github.com/LaunchPlatform/beancount-extract) - Simple Python library for extracting all kinds of bank export CSV files into standardized transaction data objects
+- [beanhub-import](https://github.com/LaunchPlatform/beancount-import) - Declarative idempotent rule-based beancount transaction import engine in Python consumes data extracted by [beanhub-extract](https://github.com/LaunchPlatform/beancount-extract)
+- [beanahead](https://github.com/maread99/beanahead) - Administer future transactions for a beancount ledger
+- [beanquery-mcp](https://github.com/vanto/beanquery-mcp) - MCP (Model Context Protocol) server for Beancount Ledger files 

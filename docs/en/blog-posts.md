@@ -1,0 +1,27 @@
+# Blog Posts
+
+- English
+    - [Accounting automation with Beancount](https://lyz-code.github.io/blue-book/beancount/)
+    - [Counting beans - and more - with Beancount](https://lwn.net/Articles/751874/)
+    - [Manage your personal finance with beancount](https://web.archive.org/web/20201020052006/https://panavtec.me/manage-personal-finance-beancount)
+    - [Managing my personal finances with beancount](https://web.archive.org/web/20201206125102/https://alexjj.com/blog/2016/managing-my-personal-finances-with-beancount/)
+    - [Managing Personal Finances using Python](https://sgoel.dev/posts/managing-personal-finances-using-python/)
+    - [Moving on to Beancount](https://bloerg.net/posts/moving-on-to-beancount/)
+    - [No-Bullshit Beancount Introduction](https://web.archive.org/web/20221119110728/https://blog.leononame.dev/2019/08/beancount/)
+    - [Plain text accounting with Beancount](https://www.jorgee.net/blog/2017-06-16/)
+- French
+    - [Beancount ou la comptabilité pour les hackers](https://cyril.deguet.com/fr/2015/09/03/beancount-comptabilite-pour-hackers/)
+- Chinese
+    - [Beancount —— 命令行复式簿记](https://wzyboy.im/post/1063.html)
+    - [使用 Beancount 记录证券投资](https://wzyboy.im/post/1317.html)
+    - BYVoid
+        - [Beancount复式记账（一）：为什么](https://byvoid.com/zhs/blog/beancount-bookkeeping-1)
+        - [Beancount复式记账（二）：借贷记账法](https://byvoid.com/zhs/blog/beancount-bookkeeping-2)
+        - [Beancount复式记账（三）：结余与资产](https://byvoid.com/zhs/blog/beancount-bookkeeping-3)
+        - [Beancount複式記賬（四）：項目管理](https://byvoid.com/zht/blog/beancount-bookkeeping-4)
+    - yishanhe
+        - [复式借贷记账法 Beancount (0) - 先导](https://yishanhe.net/beancount-tutorial-0/)
+        - [复式借贷记账法 Beancount (1) - 基础知识](https://yishanhe.net/beancount-tutorial-1/)
+        - [复式借贷记账法 Beancount (2) - 环境设置](https://yishanhe.net/beancount-tutorial-2/)
+        - [复式借贷记账法 Beancount (3) - 房产](https://yishanhe.net/beancount-tutorial-3/)
+        - [复式借贷记账法 Beancount (4) - RSU](https://yishanhe.net/beancount-tutorial-4/) 

@@ -1,0 +1,28 @@
+# 工具
+
+- [从 YNAB 到 Beancount 的导入器](https://github.com/hoostus/beancount-ynab)
+- [CSV 到 Beancount](https://github.com/PaNaVTEC/csv2beancount)
+- GnuCash 到 Beancount
+    - <https://github.com/henriquebastos/gnucash-to-beancount/>
+    - <https://github.com/dtrai2/gnucash-to-beancount/>
+- Ledger 到 Beancount
+    - <https://gist.github.com/travisdahlke/71152286b0a8826249fe>
+    - <https://github.com/zacchiro/ledger2beancount>
+    - <https://github.com/glasserc/ledger-to-beancount/>
+- [Beancount - 导入和同步](https://gitlab.com/alex_ford/beancount-ins)
+- [Moneywiz3 到 Beancount](https://github.com/zhangzhishan/beancount_importer)
+- [Costflow](https://www.costflow.io/docs/) - 将单行消息转换为 beancount/ledger 格式
+- [bean-add](https://simonvolpert.com/bean-add/) - 轻松向您的 Beancount 日记添加交易
+- [Beancount Bot](https://github.com/StdioA/beancount-bot) - Telegram / Mattermost 机器人，用几句话生成新交易
+- [Beancount 分类器](https://github.com/bratekarate/beancount-categorizer) - 使用简单的基于正则表达式的规则自动分类您的交易
+- [ofxtools](https://github.com/csingley/ofxtools) - 用于处理开放金融交换 (OFX) 数据的 Python 库
+- [double-entry-generator](https://github.com/deb-sig/double-entry-generator) - 基于规则的双重记账导入器（从支付宝/微信/火币到 Beancount）
+- [beancount-parser](https://github.com/LaunchPlatform/beancount-parser) - 独立的基于 Lark 的 Beancount 语法解析器（不依赖 Beancount 库）
+- [beancount-black](https://github.com/LaunchPlatform/beancount-black) - 固执己见的代码格式化器，就像 Python 的 black 代码格式化器，但适用于 Beancount
+- [beanhub-web-react](https://github.com/LaunchPlatform/beanhub-web-react) - 用于 beancount 条目输入表单的 React 组件和 [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms)
+- [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) - 自定义 beancount 表单的数据类型和处理器，用于轻松输入重复的相似条目
+- [beanhub-cli](https://github.com/LaunchPlatform/beancount-cli) - Beancount 命令行工具，具有格式化器、[beanhub-import](https://github.com/LaunchPlatform/beancount-import) 和 [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) Web 应用等功能
+- [beanhub-extract](https://github.com/LaunchPlatform/beancount-extract) - 简单的 Python 库，用于从各种银行导出 CSV 文件中提取标准化交易数据对象
+- [beanhub-import](https://github.com/LaunchPlatform/beancount-import) - Python 中的声明式幂等基于规则的 beancount 交易导入引擎，消耗由 [beanhub-extract](https://github.com/LaunchPlatform/beancount-extract) 提取的数据
+- [beanahead](https://github.com/maread99/beanahead) - 管理 beancount 账本的未来交易
+- [beanquery-mcp](https://github.com/vanto/beanquery-mcp) - Beancount 账本文件的 MCP（模型上下文协议）服务器 
