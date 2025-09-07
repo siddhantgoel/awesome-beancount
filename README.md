@@ -18,8 +18,8 @@ system — ideal for plain text accounting users and Python software developers.
 - [Homepage](https://beancount.github.io/)
 - [Source Code](https://github.com/beancount/beancount)
 - Documentation
-    - [GitHub Pages](https://beancount.github.io/docs/)
     - [Google Docs](https://docs.google.com/document/d/1RaondTJCS_IUPBHFNdT8oqFKJjVJDsfsn6JEjBG04eA/edit)
+    - [GitHub Pages](https://beancount.github.io/docs/) ([generated](https://github.com/beancount/docs) from Google Docs)
 - [External Contributions to Beancount](https://beancount.github.io/docs/external_contributions.html)
 
 ## Books
