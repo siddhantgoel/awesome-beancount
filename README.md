@@ -33,6 +33,7 @@ system — ideal for plain text accounting users and Python software developers.
 - [Beancount Mobile](https://github.com/xuhcc/beancount-mobile) - Data entry app for Beancount plain-text accounting system
 - [SQL queries for Beancount](http://aumayr.github.io/beancount-sql-queries/) - Example SQL queries for Beancount
 - [Beancount Telegram Bot](https://github.com/LucaBernstein/beancount-bot-tg) - Telegram bot to track Beancount transactions on the go
+- [Beancount Telegram Bot](https://github.com/blinkstu/beancount-telegram-bot) - Telegram bot powered with llm to record any complex transactions with multiuser and web interface
 
 ## Importers
 
