@@ -151,6 +151,8 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 
 ## Plugins
 
+### Beancount
+
 - [autobean.share](https://github.com/SEIAROTg/autobean/tree/master/autobean/share): Expense split, joint bookkeeping, and debt management for personal use cases
 - [autobean.xcheck](https://github.com/SEIAROTg/autobean/tree/master/autobean/xcheck): Cross-checks against external ledgers
 - [autobean.narration](https://github.com/SEIAROTg/autobean/tree/master/autobean/narration): Generates transaction narration from posting narration and posting narration from comments
@@ -158,11 +160,23 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 - [autobean.sorted](https://github.com/SEIAROTg/autobean/tree/master/autobean/sorted): Checks that transactions are in non-descending order in each file
 - [autobean.truelayer](https://github.com/SEIAROTg/autobean/tree/master/autobean/truelayer): Imports transactions from banks via [TrueLayer](https://truelayer.com/), a bank API aggregator
 - [beancount-balexpr](https://github.com/w1ndy/beancount_balexpr) - Check balances against simple expressions combining accounts in Beancount
-- [fava-envelope](https://github.com/polarmutex/fava-envelope) - Beancount Fava extension for envelope budgeting
 - [beancount-balancechange](https://github.com/daniel-wells/beancount_balancechange) - Checks _change_ in balance between two dates
 - [beancount-checkclosed](https://github.com/daniel-wells/beancount_checkclosed) - Automatically insert a 0 balance check for closed balance sheet accounts
 - [beancount-lazy-plugins.valuation](https://github.com/Evernight/beancount-lazy-plugins?tab=readme-ov-file#valuation) - track total value of the opaque fund over time
 - [beancount-lazy-plugins.filter_map](https://github.com/Evernight/beancount-lazy-plugins/tree/main?tab=readme-ov-file#filter_map) - apply operations to group of transactions selected by Fava filters
+- [beangrow](https://github.com/beancount/beangrow) computes investment returns on a variety of assets
+- [portfolio-returns](https://github.com/hoostus/portfolio-returns) calculates money-weighted and time-weighted returns for a portfolio
+- [portfolio_allocation](https://github.com/ghislainbourgeois/beancount_portfolio_allocation) reports on portfolio asset allocations; useful for risk analysis and for rebalancing purposes.
+- [metadata-spray](https://github.com/seltzered/beancount-plugins-metadata-spray) use a regex pattern to add metadata to entries
+  
+### Fava
+
+- [fava-envelope](https://github.com/polarmutex/fava-envelope) - Beancount Fava extension for envelope budgeting
+- [fava-dashboards](https://github.com/andreasgerstmayr/fava-dashboards) - Additional fully custom dashboards
+- [fava-portfolio-returns](https://github.com/andreasgerstmayr/fava-portfolio-returns) shows portfolio returns
+- [fava-portfolio-summary](https://github.com/PhracturedBlue/fava-portfolio-summary) grouped portfolio view; also calculate MWRR (Money-Weighted Rate of Return) or TWRR (Time-Weighted Rate of Return)
+- [fava-classy-portfolio](https://github.com/seltzered/fava-classy-portfolio) displays a list of different portfolios, with breakdowns using metadata labels
+- [fava_investor](https://github.com/redstreet/fava_investor) reports, analyses, and tools for investments
 
 ## Tools
 
