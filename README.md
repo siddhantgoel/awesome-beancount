@@ -242,3 +242,15 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 - [Beancount Oneliner](https://pythonhosted.org/beancount-oneliner/)
 - [Reports on portfolio asset allocation in Beancount](https://github.com/ghislainbourgeois/beancount_portfolio_allocation/)
 - [Lazy Beancount: Beancount and tools in Docker with opinionated use guide](https://github.com/Evernight/lazy-beancount)
+
+## Related
+
+### Alternative Implementations
+
+See https://plaintextaccounting.org/#pta-apps for non-Beancount; this is for Beancount compatible, or very directly inspired, related links.
+
+#### JVM
+
+- https://github.com/jbeancount/jbeancount
+- https://bluetainer.nl/blog/a-graalpy-graalvm-project-with-gradle-beancount-pip-package-java
+
