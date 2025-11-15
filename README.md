@@ -156,21 +156,26 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 
 ### Beancount
 
-- [autobean.share](https://github.com/SEIAROTg/autobean/tree/master/autobean/share): Expense split, joint bookkeeping, and debt management for personal use cases
-- [autobean.xcheck](https://github.com/SEIAROTg/autobean/tree/master/autobean/xcheck): Cross-checks against external ledgers
-- [autobean.narration](https://github.com/SEIAROTg/autobean/tree/master/autobean/narration): Generates transaction narration from posting narration and posting narration from comments
 - [autobean.include](https://github.com/SEIAROTg/autobean/tree/master/autobean/include): Includes external beancount ledgers without disabling their plugins
+- [autobean.narration](https://github.com/SEIAROTg/autobean/tree/master/autobean/narration): Generates transaction narration from posting narration and posting narration from comments
+- [autobean.share](https://github.com/SEIAROTg/autobean/tree/master/autobean/share): Expense split, joint bookkeeping, and debt management for personal use cases
 - [autobean.sorted](https://github.com/SEIAROTg/autobean/tree/master/autobean/sorted): Checks that transactions are in non-descending order in each file
 - [autobean.truelayer](https://github.com/SEIAROTg/autobean/tree/master/autobean/truelayer): Imports transactions from banks via [TrueLayer](https://truelayer.com/), a bank API aggregator
-- [beancount-balexpr](https://github.com/w1ndy/beancount_balexpr) - Check balances against simple expressions combining accounts in Beancount
+- [autobean.xcheck](https://github.com/SEIAROTg/autobean/tree/master/autobean/xcheck): Cross-checks against external ledgers
 - [beancount-balancechange](https://github.com/daniel-wells/beancount_balancechange) - Checks _change_ in balance between two dates
+- [beancount-balexpr](https://github.com/w1ndy/beancount_balexpr) - Check balances against simple expressions combining accounts in Beancount
 - [beancount-checkclosed](https://github.com/daniel-wells/beancount_checkclosed) - Automatically insert a 0 balance check for closed balance sheet accounts
-- [beancount-lazy-plugins.valuation](https://github.com/Evernight/beancount-lazy-plugins?tab=readme-ov-file#valuation) - track total value of the opaque fund over time
 - [beancount-lazy-plugins.filter_map](https://github.com/Evernight/beancount-lazy-plugins/tree/main?tab=readme-ov-file#filter_map) - apply operations to group of transactions selected by Fava filters
+- [beancount-lazy-plugins.valuation](https://github.com/Evernight/beancount-lazy-plugins?tab=readme-ov-file#valuation) - track total value of the opaque fund over time
 - [beangrow](https://github.com/beancount/beangrow) computes investment returns on a variety of assets
-- [portfolio-returns](https://github.com/hoostus/portfolio-returns) calculates money-weighted and time-weighted returns for a portfolio
-- [portfolio_allocation](https://github.com/ghislainbourgeois/beancount_portfolio_allocation) reports on portfolio asset allocations; useful for risk analysis and for rebalancing purposes.
 - [metadata-spray](https://github.com/seltzered/beancount-plugins-metadata-spray) use a regex pattern to add metadata to entries
+- [portfolio_allocation](https://github.com/ghislainbourgeois/beancount_portfolio_allocation) reports on portfolio asset allocations; useful for risk analysis and for rebalancing purposes.
+- [portfolio-returns](https://github.com/hoostus/portfolio-returns) calculates money-weighted and time-weighted returns for a portfolio
+- [reds capital_gains_classifier](https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/capital_gains_classifier#readme): rebooks capital gains into separate long and short accounts, and separate gains and losses accounts
+- [reds effective_date](https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/effective_date#readme): enables per-posting dates (each posting in a transaction can have a different date)
+- [reds opengroup](https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/opengroup#readme): Inserts open statements for sets of accounts based on specifiable rules.
+- [reds rename_accounts](https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/rename_accounts#readme): rename arbitrary accounts on the fly (eg: move Taxes from Expenses to Income when you temporarily want to view all your Expenses except taxes)
+- [reds zerosum](https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/zerosum#readme): find matching pairs of postings that sum up to zero. Useful in de-duplication, and tracking things such as reimbursements, rebates, etc.
   
 ### Fava
 
