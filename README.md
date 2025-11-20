@@ -88,7 +88,7 @@ system — ideal for plain text accounting users and Python software developers.
 ### US
 
 - [Amex](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-amex-py)
-- [Amazon](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers/amazon) GDPR Download order data, gift card. pip-installable
+- [Amazon](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers/amazon) (GDPR Download order data, gift card. pip-installable)
 - [Capital One](https://github.com/mtlynch/beancount-capitalone) (Credit, pip-installable)
 - [Chase](https://github.com/mtlynch/beancount-chase-bank) (Checking, Credit, pip-installable)
 - [Chase](https://github.com/ArthurFDLR/beancount-chase) (Checking, pip-installable)
@@ -96,10 +96,10 @@ system — ideal for plain text accounting users and Python software developers.
 - [Citi](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-citi-py)
 - [Clipper](https://git.sr.ht/~goorzhel/beancount-clipper)
 - [Fidelity](https://tariochbctools.readthedocs.io/)
-- [IBKR](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers/ibkr) Flex Query importer and downloader
+- [IBKR](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers/ibkr) (Flex Query importer and downloader)
 - [Mercury](https://github.com/mtlynch/beancount-mercury)
 - [Schwab](https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-schwab-py)
-- [Red's Importers](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers) many including Ally, Chase, Citi, Fidelity, Schwab, Vanguard. pip-installable
+- [Red's Importers](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers) (Including Ally, Chase, Citi, Fidelity, Schwab, Vanguard, pip-installable)
 
 ### Blockchain Transactions
 
@@ -110,7 +110,7 @@ system — ideal for plain text accounting users and Python software developers.
 - [Beancount importers for the F-Droid Budget app and for a bank CSV](https://github.com/jamatute/beancount-importer)
 - [Web UI for semi-automatically importing external data into beancount](https://github.com/jbms/beancount-import)
 - [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer)
-- [Red's Importers](https://github.com/redstreet/beancount_reds_importers): a collection of simple importers and a framework to write your own
+- [Red's Importers: Collection of simple importers and a framework to write your own](https://github.com/redstreet/beancount_reds_importers)
 - [Importers, plugins and price-fetchers for Beancount](https://github.com/tarioch/beancounttools)
 - [yabci - yet another beancount importer](https://codeberg.org/privatize-koala/yabci)
 
