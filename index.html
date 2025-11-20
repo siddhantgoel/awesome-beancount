@@ -976,6 +976,7 @@ system — ideal for plain text accounting users and Python software developers.
 <h3 id="us">US</h3>
 <ul>
 <li><a href="https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-amex-py">Amex</a></li>
+<li><a href="https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers/amazon">Amazon</a> (GDPR Download order data, gift card. pip-installable)</li>
 <li><a href="https://github.com/mtlynch/beancount-capitalone">Capital One</a> (Credit, pip-installable)</li>
 <li><a href="https://github.com/mtlynch/beancount-chase-bank">Chase</a> (Checking, Credit, pip-installable)</li>
 <li><a href="https://github.com/ArthurFDLR/beancount-chase">Chase</a> (Checking, pip-installable)</li>
@@ -983,8 +984,10 @@ system — ideal for plain text accounting users and Python software developers.
 <li><a href="https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-citi-py">Citi</a></li>
 <li><a href="https://git.sr.ht/~goorzhel/beancount-clipper">Clipper</a></li>
 <li><a href="https://tariochbctools.readthedocs.io/">Fidelity</a></li>
+<li><a href="https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers/ibkr">IBKR</a> (Flex Query importer and downloader)</li>
 <li><a href="https://github.com/mtlynch/beancount-mercury">Mercury</a></li>
 <li><a href="https://gist.github.com/mterwill/7fdcc573dc1aa158648aacd4e33786e8#file-importers-schwab-py">Schwab</a></li>
+<li><a href="https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers">Red's Importers</a> (Including Ally, Chase, Citi, Fidelity, Schwab, Vanguard, pip-installable)</li>
 </ul>
 <h3 id="blockchain-transactions">Blockchain Transactions</h3>
 <ul>
@@ -995,7 +998,7 @@ system — ideal for plain text accounting users and Python software developers.
 <li><a href="https://github.com/jamatute/beancount-importer">Beancount importers for the F-Droid Budget app and for a bank CSV</a></li>
 <li><a href="https://github.com/jbms/beancount-import">Web UI for semi-automatically importing external data into beancount</a></li>
 <li><a href="https://github.com/beancount/smart_importer">Augment Beancount importers with machine learning</a></li>
-<li><a href="https://github.com/redstreet/beancount_reds_importers">Beancount Reds Ingestor</a></li>
+<li><a href="https://github.com/redstreet/beancount_reds_importers">Red's Importers: Collection of simple importers and a framework to write your own</a></li>
 <li><a href="https://github.com/tarioch/beancounttools">Importers, plugins and price-fetchers for Beancount</a></li>
 <li><a href="https://codeberg.org/privatize-koala/yabci">yabci - yet another beancount importer</a></li>
 </ul>
@@ -1043,21 +1046,26 @@ system — ideal for plain text accounting users and Python software developers.
 <h2 id="plugins">Plugins</h2>
 <h3 id="beancount">Beancount</h3>
 <ul>
-<li><a href="https://github.com/SEIAROTg/autobean/tree/master/autobean/share">autobean.share</a>: Expense split, joint bookkeeping, and debt management for personal use cases</li>
-<li><a href="https://github.com/SEIAROTg/autobean/tree/master/autobean/xcheck">autobean.xcheck</a>: Cross-checks against external ledgers</li>
-<li><a href="https://github.com/SEIAROTg/autobean/tree/master/autobean/narration">autobean.narration</a>: Generates transaction narration from posting narration and posting narration from comments</li>
 <li><a href="https://github.com/SEIAROTg/autobean/tree/master/autobean/include">autobean.include</a>: Includes external beancount ledgers without disabling their plugins</li>
+<li><a href="https://github.com/SEIAROTg/autobean/tree/master/autobean/narration">autobean.narration</a>: Generates transaction narration from posting narration and posting narration from comments</li>
+<li><a href="https://github.com/SEIAROTg/autobean/tree/master/autobean/share">autobean.share</a>: Expense split, joint bookkeeping, and debt management for personal use cases</li>
 <li><a href="https://github.com/SEIAROTg/autobean/tree/master/autobean/sorted">autobean.sorted</a>: Checks that transactions are in non-descending order in each file</li>
 <li><a href="https://github.com/SEIAROTg/autobean/tree/master/autobean/truelayer">autobean.truelayer</a>: Imports transactions from banks via <a href="https://truelayer.com/">TrueLayer</a>, a bank API aggregator</li>
-<li><a href="https://github.com/w1ndy/beancount_balexpr">beancount-balexpr</a> - Check balances against simple expressions combining accounts in Beancount</li>
+<li><a href="https://github.com/SEIAROTg/autobean/tree/master/autobean/xcheck">autobean.xcheck</a>: Cross-checks against external ledgers</li>
 <li><a href="https://github.com/daniel-wells/beancount_balancechange">beancount-balancechange</a> - Checks <em>change</em> in balance between two dates</li>
+<li><a href="https://github.com/w1ndy/beancount_balexpr">beancount-balexpr</a> - Check balances against simple expressions combining accounts in Beancount</li>
 <li><a href="https://github.com/daniel-wells/beancount_checkclosed">beancount-checkclosed</a> - Automatically insert a 0 balance check for closed balance sheet accounts</li>
-<li><a href="https://github.com/Evernight/beancount-lazy-plugins?tab=readme-ov-file#valuation">beancount-lazy-plugins.valuation</a> - track total value of the opaque fund over time</li>
 <li><a href="https://github.com/Evernight/beancount-lazy-plugins/tree/main?tab=readme-ov-file#filter_map">beancount-lazy-plugins.filter_map</a> - apply operations to group of transactions selected by Fava filters</li>
+<li><a href="https://github.com/Evernight/beancount-lazy-plugins?tab=readme-ov-file#valuation">beancount-lazy-plugins.valuation</a> - track total value of the opaque fund over time</li>
 <li><a href="https://github.com/beancount/beangrow">beangrow</a> computes investment returns on a variety of assets</li>
-<li><a href="https://github.com/hoostus/portfolio-returns">portfolio-returns</a> calculates money-weighted and time-weighted returns for a portfolio</li>
-<li><a href="https://github.com/ghislainbourgeois/beancount_portfolio_allocation">portfolio_allocation</a> reports on portfolio asset allocations; useful for risk analysis and for rebalancing purposes.</li>
 <li><a href="https://github.com/seltzered/beancount-plugins-metadata-spray">metadata-spray</a> use a regex pattern to add metadata to entries</li>
+<li><a href="https://github.com/ghislainbourgeois/beancount_portfolio_allocation">portfolio_allocation</a> reports on portfolio asset allocations; useful for risk analysis and for rebalancing purposes.</li>
+<li><a href="https://github.com/hoostus/portfolio-returns">portfolio-returns</a> calculates money-weighted and time-weighted returns for a portfolio</li>
+<li><a href="https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/capital_gains_classifier#readme">reds capital_gains_classifier</a>: rebooks capital gains into separate long and short accounts, and separate gains and losses accounts</li>
+<li><a href="https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/effective_date#readme">reds effective_date</a>: enables per-posting dates (each posting in a transaction can have a different date)</li>
+<li><a href="https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/opengroup#readme">reds opengroup</a>: Inserts open statements for sets of accounts based on specifiable rules.</li>
+<li><a href="https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/rename_accounts#readme">reds rename_accounts</a>: rename arbitrary accounts on the fly (eg: move Taxes from Expenses to Income when you temporarily want to view all your Expenses except taxes)</li>
+<li><a href="https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/zerosum#readme">reds zerosum</a>: find matching pairs of postings that sum up to zero. Useful in de-duplication, and tracking things such as reimbursements, rebates, etc.</li>
 </ul>
 <h3 id="fava">Fava</h3>
 <ul>
