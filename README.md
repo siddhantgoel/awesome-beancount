@@ -233,6 +233,8 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
     - [Moving on to Beancount](https://bloerg.net/posts/moving-on-to-beancount/)
     - [No-Bullshit Beancount Introduction](https://web.archive.org/web/20221119110728/https://blog.leononame.dev/2019/08/beancount/)
     - [Plain text accounting with Beancount](https://www.jorgee.net/blog/2017-06-16/)
+    - [Using LLMs to turn scripts into applications](https://djharper.dev/post/2025/08/19/using-llms-to-turn-scripts-into-applications/)
+    - [One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/)
 - French
     - [Beancount ou la comptabilité pour les hackers](https://cyril.deguet.com/fr/2015/09/03/beancount-comptabilite-pour-hackers/)
 - Chinese
