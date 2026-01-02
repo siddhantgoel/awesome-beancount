@@ -59,6 +59,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 - [Caisse d'Epargne](https://github.com/ArthurFDLR/beancount-ce)
 - [Boursorama, Amex, ... ](https://github.com/grostim/Beancount-myTools)
+- [Fortuneo, Crédit Mutuel](https://github.com/vrischmann/beancount-importers)
 
 ### India
 - [SBI/BOI/PAYTM/HSBC/ICICI](https://github.com/dumbPy/beancount-importers-india)
