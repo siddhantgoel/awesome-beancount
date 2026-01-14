@@ -22,6 +22,10 @@ system — ideal for plain text accounting users and Python software developers.
     - [GitHub Pages](https://beancount.github.io/docs/) ([generated](https://github.com/beancount/docs) from Google Docs)
 - [External Contributions to Beancount](https://beancount.github.io/docs/external_contributions.html)
 
+## Alternative Implementations
+
+- [rustledger](https://github.com/rustledger/rustledger) - Pure Rust implementation, drop-in replacement, 10x faster
+
 ## Books
 
 - [Tracking Personal Finances using Python](https://personalfinancespython.com)
