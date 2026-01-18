@@ -190,6 +190,7 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 - [fava-portfolio-summary](https://github.com/PhracturedBlue/fava-portfolio-summary) grouped portfolio view; also calculate MWRR (Money-Weighted Rate of Return) or TWRR (Time-Weighted Rate of Return)
 - [fava-classy-portfolio](https://github.com/seltzered/fava-classy-portfolio) displays a list of different portfolios, with breakdowns using metadata labels
 - [fava_investor](https://github.com/redstreet/fava_investor) reports, analyses, and tools for investments
+- [fava_budget_freedom](https://github.com/Leon2xiaowu/fava_budget_freedom) provide flexible and powerful budget management and visualization features
 
 ## Tools
 
