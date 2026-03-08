@@ -170,8 +170,10 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 - [beancount-balancechange](https://github.com/daniel-wells/beancount_balancechange) - Checks _change_ in balance between two dates
 - [beancount-balexpr](https://github.com/w1ndy/beancount_balexpr) - Check balances against simple expressions combining accounts in Beancount
 - [beancount-checkclosed](https://github.com/daniel-wells/beancount_checkclosed) - Automatically insert a 0 balance check for closed balance sheet accounts
-- [beancount-lazy-plugins.filter_map](https://github.com/Evernight/beancount-lazy-plugins/tree/main?tab=readme-ov-file#filter_map) - apply operations to group of transactions selected by Fava filters
-- [beancount-lazy-plugins.valuation](https://github.com/Evernight/beancount-lazy-plugins?tab=readme-ov-file#valuation) - track total value of the opaque fund over time
+- [beancount-lazy-plugins.filter_map](https://github.com/Evernight/beancount-lazy-plugins/blob/main/docs/filter_map/README.md) - apply operations to group of transactions selected by Fava filters
+- [beancount-lazy-plugins.valuation](https://github.com/Evernight/beancount-lazy-plugins/blob/main/docs/valuation/README.md) - track total value of the opaque fund over time
+- [beancount-lazy-plugins.tag_from_continuous_events](https://github.com/Evernight/beancount-lazy-plugins/blob/main/docs/tag_from_continuous_events/README.md) - apply tags to transactions based on Events
+- [beancount-lazy-plugins.balance_extended](https://github.com/Evernight/beancount-lazy-plugins/blob/main/docs/balance_extended/README.md) - adds extended balance assertions (full, padded, full-padded)
 - [beangrow](https://github.com/beancount/beangrow) computes investment returns on a variety of assets
 - [metadata-spray](https://github.com/seltzered/beancount-plugins-metadata-spray) use a regex pattern to add metadata to entries
 - [portfolio_allocation](https://github.com/ghislainbourgeois/beancount_portfolio_allocation) reports on portfolio asset allocations; useful for risk analysis and for rebalancing purposes.
@@ -191,6 +193,10 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 - [fava-classy-portfolio](https://github.com/seltzered/fava-classy-portfolio) displays a list of different portfolios, with breakdowns using metadata labels
 - [fava_investor](https://github.com/redstreet/fava_investor) reports, analyses, and tools for investments
 - [fava_budget_freedom](https://github.com/Leon2xiaowu/fava_budget_freedom) provide flexible and powerful budget management and visualization features
+- [fava-currency-tracker](https://github.com/Evernight/fava-currency-tracker) - Currency exchange rate dashboard for Fava
+- [fava-git](https://github.com/Evernight/fava-git) - simple Git integration for Fava
+- [beantab](https://github.com/Evernight/beantab) - Beancount Fava extension for balances editing visualization
+- [beancount-plugin-tax-uk](https://github.com/Evernight/beancount-plugin-tax-uk) - UK tax reporting for Beancount (capital gains and more)
 
 ## Tools
 
@@ -271,6 +277,6 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 - [Budgets using Fava](https://fava.pythonanywhere.com/example-with-budgets/)
 - [Beancount Oneliner](https://pythonhosted.org/beancount-oneliner/)
 - [Reports on portfolio asset allocation in Beancount](https://github.com/ghislainbourgeois/beancount_portfolio_allocation/)
-- [Lazy Beancount: Beancount and tools in Docker with opinionated use guide](https://github.com/Evernight/lazy-beancount)
+- [Lazy Beancount: Beancount and tools in Docker with an alternative use guide](https://github.com/Evernight/lazy-beancount)
 - [jbeancount](https://github.com/jbeancount/jbeancount)
 - [GraalPy GraalVM](https://bluetainer.nl/blog/a-graalpy-graalvm-project-with-gradle-beancount-pip-package-java)
