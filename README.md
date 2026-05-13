@@ -46,6 +46,7 @@ system — ideal for plain text accounting users and Python software developers.
 - Alipay / 支付宝
     - [deb-sig/double-entry-generator](https://github.com/deb-sig/double-entry-generator)
     - [wzyboy/awesome-beancount](https://github.com/wzyboy/awesome-beancount/blob/master/importers/alipay_acclog.py)
+    - [dhr2333/Beancount-Trans](https://github.com/dhr2333/Beancount-Trans)
 - China Merchants Bank (CMB)
     - [Debit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_debit_cards.py)
     - [Credit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_credit_cards.py)
