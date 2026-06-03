@@ -51,7 +51,7 @@ system — ideal for plain text accounting users and Python software developers.
     - [Debit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_debit_cards.py)
     - [Credit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_credit_cards.py)
 - [WeChat Pay / 微信支付](https://github.com/deb-sig/double-entry-generator)
-- [FinancialBeancount](https://github.com/CacinieP/FinancialBeancount) - Multi-platform deduplication pipeline (Alipay/WeChat/bank) with three-level fingerprint matching, refund detection, and incremental processing (pip-installable)
+- [FinancialBeancount](https://github.com/CacinieP/FinancialBeancount) - China-focused Beancount importer and deduplication pipeline for Alipay, WeChat Pay, and bank statements.
 
 ### Germany
 
@@ -228,8 +228,6 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 - [beanhub-import](https://github.com/LaunchPlatform/beancount-import) - Declarative idempotent rule-based beancount transaction import engine in Python consumes data extracted by [beanhub-extract](https://github.com/LaunchPlatform/beanhub-extract)
 - [beanahead](https://github.com/maread99/beanahead) - Administer future transactions for a beancount ledger
 - [beanquery-mcp](https://github.com/vanto/beanquery-mcp) - MCP (Model Context Protocol) server for Beancount Ledger files
-
-- [FinancialBeancount](https://github.com/CacinieP/FinancialBeancount) - Multi-platform bill deduplication and Beancount conversion for Alipay, WeChat Pay, and bank statements with three-level fingerprint matching (pip-installable)
 
 ## Price Sources
 
