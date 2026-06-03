@@ -51,6 +51,7 @@ system — ideal for plain text accounting users and Python software developers.
     - [Debit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_debit_cards.py)
     - [Credit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_credit_cards.py)
 - [WeChat Pay / 微信支付](https://github.com/deb-sig/double-entry-generator)
+- [FinancialBeancount](https://github.com/CacinieP/FinancialBeancount) - China-focused Beancount importer and deduplication pipeline for Alipay, WeChat Pay, and bank statements.
 
 ### Germany
 
