@@ -120,6 +120,7 @@ system — ideal for plain text accounting users and Python software developers.
 - [Red's Importers: Collection of simple importers and a framework to write your own](https://github.com/redstreet/beancount_reds_importers)
 - [Importers, plugins and price-fetchers for Beancount](https://github.com/tarioch/beancounttools)
 - [yabci - yet another beancount importer](https://codeberg.org/privatize-koala/yabci)
+- [open-banking.io](https://github.com/open-banking-io/clients/tree/main/beancount): beangulp importer syncing EEA & UK bank transactions over PSD2, decrypted client-side; no eIDAS certificate and no per-account daily rate-limit (`pip install beancount-openbanking-io`)
 
 ## Exports
 
