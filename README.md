@@ -186,6 +186,7 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 - [reds opengroup](https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/opengroup#readme): Inserts open statements for sets of accounts based on specifiable rules.
 - [reds rename_accounts](https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/rename_accounts#readme): rename arbitrary accounts on the fly (eg: move Taxes from Expenses to Income when you temporarily want to view all your Expenses except taxes)
 - [reds zerosum](https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/zerosum#readme): find matching pairs of postings that sum up to zero. Useful in de-duplication, and tracking things such as reimbursements, rebates, etc.
+- [beancount-mortgage](https://github.com/mclate/beancount-mortgage): Plugin to simulate loan/mortgage schedule and payments.
   
 ### Fava
 
