@@ -230,6 +230,7 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 - [beanhub-import](https://github.com/LaunchPlatform/beancount-import) - Declarative idempotent rule-based beancount transaction import engine in Python consumes data extracted by [beanhub-extract](https://github.com/LaunchPlatform/beanhub-extract)
 - [beanahead](https://github.com/maread99/beanahead) - Administer future transactions for a beancount ledger
 - [beanquery-mcp](https://github.com/vanto/beanquery-mcp) - MCP (Model Context Protocol) server for Beancount Ledger files
+- [Slashbooks](https://github.com/giltotherescue/slashbooks) - Local-first bookkeeping agent that can export Beancount for inspection in PTA tools
 
 ## Price Sources
 
