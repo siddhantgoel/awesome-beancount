@@ -201,6 +201,7 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 - [fava-git](https://github.com/Evernight/fava-git) - simple Git integration for Fava
 - [beantab](https://github.com/Evernight/beantab) - Beancount Fava extension for balances editing visualization
 - [beancount-plugin-tax-uk](https://github.com/Evernight/beancount-plugin-tax-uk) - UK tax reporting for Beancount (capital gains and more)
+- [beancount-zakat](https://github.com/WildeBeast2521/beancount-zakat) - Zakat calculation against the gold and silver nisab, as a Fava dashboard and a CLI
 
 ## Tools
 
