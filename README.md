@@ -38,6 +38,7 @@ system — ideal for plain text accounting users and Python software developers.
 - [SQL queries for Beancount](http://aumayr.github.io/beancount-sql-queries/) - Example SQL queries for Beancount
 - [Beancount Telegram Bot](https://github.com/LucaBernstein/beancount-bot-tg) - Telegram bot to track Beancount transactions on the go
 - [Beancount Telegram Bot](https://github.com/blinkstu/beancount-telegram-bot) - Telegram bot powered with llm to record any complex transactions with multiuser and web interface
+- [beancount-gs](https://github.com/BaoXuebin/beancount-gs) - Self-hosted multi-user Beancount web service (React + Go) with AI assistant and MCP
 
 ## Importers
 
@@ -52,6 +53,7 @@ system — ideal for plain text accounting users and Python software developers.
     - [Credit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_credit_cards.py)
 - [WeChat Pay / 微信支付](https://github.com/deb-sig/double-entry-generator)
 - [FinancialBeancount](https://github.com/CacinieP/FinancialBeancount) - China-focused Beancount importer and deduplication pipeline for Alipay, WeChat Pay, and bank statements.
+- [BeanBridge](https://github.com/fatsheep2/beanBridge) - Browser-based rule importer (Alipay/WeChat/banks/crypto → Beancount or Ledger) powered by double-entry-generator WASM ([live demo](https://fatsheep2.github.io/beanBridge/)).
 
 ### Germany
 
@@ -141,6 +143,7 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 
 - [Beancount.io iOS App](https://apps.apple.com/us/app/id1527950512): Visualizes and connects to your Beancount.io ledger on iOS
 - [Beancount.io Android App](https://play.google.com/store/apps/details?id=io.beancount.android): Visualizes and connects to your Beancount.io ledger on Android
+- [Cocono](https://cocono.app/) ([App Store](https://apps.apple.com/app/cocono-beancount-made-easy/id6497061011)): Privacy-first iOS Beancount client with on-device AI (screenshot/voice entry, BQL dashboards, Siri/Shortcuts)
 
 ## Community
 
@@ -269,6 +272,9 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
         - [复式借贷记账法 Beancount (2) - 环境设置](https://yishanhe.net/beancount-tutorial-2/)
         - [复式借贷记账法 Beancount (3) - 房产](https://yishanhe.net/beancount-tutorial-3/)
         - [复式借贷记账法 Beancount (4) - RSU](https://yishanhe.net/beancount-tutorial-4/)
+    - [记账神器 Beancount 教程 - 少数派](https://sspai.com/post/59777)
+    - [『Beancount指南』复式记账 - Fermi's Blog](https://fermi.ink/posts/2023/05/31/01/)
+    - [复式记账工具：Beancount 入门 | val's Blog](https://gaoweix.com/beancount-getting-started/)
 
 ## Discussions
 
