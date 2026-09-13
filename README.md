@@ -123,6 +123,7 @@ system — ideal for plain text accounting users and Python software developers.
 - [Importers, plugins and price-fetchers for Beancount](https://github.com/tarioch/beancounttools)
 - [yabci - yet another beancount importer](https://codeberg.org/privatize-koala/yabci)
 - [open-banking.io](https://github.com/open-banking-io/clients/tree/main/beancount): beangulp importer syncing EEA & UK bank transactions over PSD2, decrypted client-side; no eIDAS certificate and no per-account daily rate-limit (`pip install beancount-openbanking-io`)
+- [ledgerbridge](https://github.com/MugenLab/ledgerbridge): converts OFX 1.x/2.x/QFX, QIF, CAMT.053 and CSV to beancount with balance assertions; verifies opening + transactions == closing and refuses to write output when they disagree (Python 3.10+, stdlib only)
 
 ## Exports
 
