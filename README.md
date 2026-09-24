@@ -236,6 +236,7 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 - [beanahead](https://github.com/maread99/beanahead) - Administer future transactions for a beancount ledger
 - [beanquery-mcp](https://github.com/vanto/beanquery-mcp) - MCP (Model Context Protocol) server for Beancount Ledger files
 - [Slashbooks](https://github.com/giltotherescue/slashbooks) - Local-first bookkeeping agent that can export Beancount for inspection in PTA tools
+- [beancount-ledger](https://github.com/gultekinhasancan79/beancount-ledger) - Evaluation environment for AI agents that repair Beancount ledgers and apply customer payments, with deterministic, inspectable scoring
 
 ## Price Sources
 
