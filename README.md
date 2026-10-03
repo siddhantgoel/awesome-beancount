@@ -32,6 +32,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## User Interfaces
 
+- [BeanDesk](https://github.com/SuperDaniel-cn/BeanDesk) - Modern desktop financial workbench for Beancount & Fava built with Tauri 2 and React 19
 - [Fava](https://beancount.github.io/fava/) - Web interface for Beancount
 - [Fava-GTK](https://github.com/johannesjh/fava-gtk) - GNOME Desktop app for Fava and Beancount
 - [Beancount Mobile](https://github.com/xuhcc/beancount-mobile) - Data entry app for Beancount plain-text accounting system
