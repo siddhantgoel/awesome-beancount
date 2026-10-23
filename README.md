@@ -36,6 +36,7 @@ system — ideal for plain text accounting users and Python software developers.
 - [Fava](https://beancount.github.io/fava/) - Web interface for Beancount
 - [Fava-GTK](https://github.com/johannesjh/fava-gtk) - GNOME Desktop app for Fava and Beancount
 - [Beancount Mobile](https://github.com/xuhcc/beancount-mobile) - Data entry app for Beancount plain-text accounting system
+- [Beanbook](https://github.com/pintofi/beanbook) - Android app that runs the real Beancount and Fava on the phone, on your own plain-text files, with no account or telemetry
 - [SQL queries for Beancount](http://aumayr.github.io/beancount-sql-queries/) - Example SQL queries for Beancount
 - [Beancount Telegram Bot](https://github.com/LucaBernstein/beancount-bot-tg) - Telegram bot to track Beancount transactions on the go
 - [Beancount Telegram Bot](https://github.com/blinkstu/beancount-telegram-bot) - Telegram bot powered with llm to record any complex transactions with multiuser and web interface
