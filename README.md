@@ -259,6 +259,7 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
     - [Plain text accounting with Beancount](https://www.jorgee.net/blog/2017-06-16/)
     - [Using LLMs to turn scripts into applications](https://djharper.dev/post/2025/08/19/using-llms-to-turn-scripts-into-applications/)
     - [One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/)
+    - [A personal accountant agent: Claude Code keeps a Beancount ledger and answers emailed receipts with a pull request](https://agentsfinance.io/entries/case-personal-accountant-agent-claude-code-email-beancount-2026/)
 - French
     - [Beancount ou la comptabilité pour les hackers](https://cyril.deguet.com/fr/2015/09/03/beancount-comptabilite-pour-hackers/)
 - Chinese
